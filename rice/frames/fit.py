@@ -177,6 +177,20 @@ def deepest(column, D):
     return 0
 
 
+def attached(column, D, gap):
+    """how deep the ink hanging off the edge goes: from its first ink near the edge until an empty stretch longer
+    than `gap`, so text or a picture further in doesn't count as part of the frame"""
+    last = None
+    for d in range(D):
+        if column[d] > INK:
+            if last is None and d > D // 2:
+                return 0  # nothing near the edge in this column
+            if last is not None and d - last > gap:
+                break
+            last = d
+    return 0 if last is None else last + 1
+
+
 def period_of(signal):
     """the repeat length of a signal if it clearly has one: the first peak of its autocorrelation after that has
     dropped away (a smooth shape looks like itself a pixel along, which isn't a repeat)"""
@@ -201,6 +215,7 @@ def period_of(signal):
 def measure_side(alpha, light):
     """where the plain (or repeating) middle of this side starts and ends, and how deep the edge is there"""
     L, D = alpha.width, alpha.height // 2
+    gap = max(4, int(D * 0.15))
     col = signature(alpha, light, L, D)
     centre = range(int(L * .45), int(L * .55) + 1)
     ref = bytes(sorted(col[x][d] for x in centre)[len(centre) // 2] for d in range(2 * D))
@@ -214,8 +229,11 @@ def measure_side(alpha, light):
         if p and max(differs(col[x], col[x + p]) for x in range(int(L * .4), int(L * .6))) <= 3:
             result["period"] = p
             same = lambda x, step: 0 <= x + step * p < L and differs(col[x], col[x + step * p]) <= 3  # noqa: E731
-        else:  # neither plain nor repeating: no telling where the corners end
-            result.update(start=L // 2, end=L // 2, edge_depth=max(deepest(c, D) for c in col))
+        else:  # neither plain nor repeating: no telling where the corners end, so judge its depth away from them
+            middle = range(L // 4, L * 3 // 4)
+            depths = [attached(col[x], D, gap) for x in middle]
+            result.update(start=L // 2, end=L // 2, edge_depth=max(depths),
+                          inner=any(deepest(col[x], D) > d + gap for x, d in zip(middle, depths)))
             return result
 
     def walk(x, step):
@@ -232,20 +250,40 @@ def measure_side(alpha, light):
 
     start, end = walk(L // 2, -1), walk(L // 2, 1)
     run = range(start, end + 1) if result["period"] is None else range(L // 2, L // 2 + result["period"])
-    result.update(start=start, end=end, edge_depth=max(deepest(col[x], D) for x in run))
+    depths = [attached(col[x], D, gap) for x in run]
+    result.update(start=start, end=end, edge_depth=max(depths),
+                  inner=any(deepest(col[x], D) > d + gap for x, d in zip(run, depths)))
     return result
 
 
-def corner_depths(alpha, s):
+def corner_depths(alpha, s, gap):
     """how deep the frame has to be to hold the corner ornaments (give or take a few stray pixels), and how far
-    their furthest bit reaches: a pixel x along and y down from a corner needs a frame min(x, y) deep"""
+    their furthest bit reaches: a pixel x along and y down from a corner needs a frame min(x, y) deep. Only ink
+    reachable from the corner without crossing an empty stretch longer than `gap` counts."""
     need = reach = 0
     for img in sides(alpha):
         data = img.crop((0, 0, s, s)).tobytes()
-        depths = sorted(min(x, y) for y in range(s) for x in range(s) if data[y * s + x] > INK)
-        if depths:
-            need = max(need, depths[min(len(depths) - 1, int(len(depths) * 0.997))] + 1)
-            reach = max(reach, depths[-1] + 1)
+        hist = [0] * s
+        for y in range(s):
+            row = data[y * s:(y + 1) * s]
+            for x in range(s):
+                if row[x] > INK:
+                    hist[min(x, y)] += 1
+        last = -1
+        for d in range(s):
+            if hist[d]:
+                if last >= 0 and d - last > gap:
+                    break
+                last = d
+        if last < 0:
+            continue
+        total, seen = sum(hist[:last + 1]), 0
+        for d in range(last + 1):
+            seen += hist[d]
+            if seen >= total * 0.997:
+                need = max(need, d + 1)
+                break
+        reach = max(reach, last + 1)
     return need, reach
 
 
@@ -318,9 +356,12 @@ def fit(src, name, border_size=None, corner=None, force=False):
         if best <= limit * u:
             S = best
 
-    need_px, reach_px = corner_depths(alpha, round(S / u))
+    need_px, reach_px = corner_depths(alpha, round(S / u), max(4, int(min(W, H) // 2 * 0.15)))
     edge_px = max(f["edge_depth"] for f in found)
     depth = (max(edge_px, need_px) + 1) * u
+    if any(f.get("inner") for f in found):
+        say("left out something in the middle (text or a picture) that isn't part of the frame; the plugin never "
+            "draws the middle anyway")
     say(f"corners: the ornaments reach {num(S)} along the edges; the frame is {num(depth)} deep"
         + (f" (its edges alone {num(edge_px * u)})" if need_px > edge_px * 1.2 else ""))
     if (reach_px + 1) * u > depth * 1.25:
