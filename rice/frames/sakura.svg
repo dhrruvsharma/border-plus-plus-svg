@@ -1,0 +1,876 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176"
+     data-border-size="14" data-slice="64" data-corner="64" data-edges="stretch">
+  <!-- borders-plus-plus-svg frame "sakura", made by generate.py. Cherry blossoms and loose petals tucked into the window's corners, on a thin branch.
+       One frame per window rounding below (general.border_size = 2): the plugin draws the one
+       closest to each window's rounding, so they overlap if you open this file directly. -->
+  <g id="rounding-0">
+    <defs>
+      <linearGradient id="petal-r0" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M14,7 H162 A7,7 0 0 1 169,14 V162 A7,7 0 0 1 162,169 H14 A7,7 0 0 1 7,162 V14 A7,7 0 0 1 14,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(7.02 7.02) rotate(8)">
+      <path d="M0,0 C-2.52,-1.1 -4.81,-4.03 -3.43,-6.23 Q-2.29,-7.47 -0.55,-7.11 L0,-6.3 L0.55,-7.11 Q2.29,-7.47 3.43,-6.23 C4.81,-4.03 2.52,-1.1 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.52,-1.1 -4.81,-4.03 -3.43,-6.23 Q-2.29,-7.47 -0.55,-7.11 L0,-6.3 L0.55,-7.11 Q2.29,-7.47 3.43,-6.23 C4.81,-4.03 2.52,-1.1 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.52,-1.1 -4.81,-4.03 -3.43,-6.23 Q-2.29,-7.47 -0.55,-7.11 L0,-6.3 L0.55,-7.11 Q2.29,-7.47 3.43,-6.23 C4.81,-4.03 2.52,-1.1 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.52,-1.1 -4.81,-4.03 -3.43,-6.23 Q-2.29,-7.47 -0.55,-7.11 L0,-6.3 L0.55,-7.11 Q2.29,-7.47 3.43,-6.23 C4.81,-4.03 2.52,-1.1 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.52,-1.1 -4.81,-4.03 -3.43,-6.23 Q-2.29,-7.47 -0.55,-7.11 L0,-6.3 L0.55,-7.11 Q2.29,-7.47 3.43,-6.23 C4.81,-4.03 2.52,-1.1 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.98" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.37" cy="1.72" r="0.55" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.91" cy="2.79" r="0.55" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.93" cy="0" r="0.55" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.91" cy="-2.79" r="0.55" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.37" cy="-1.72" r="0.55" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(169.37 169.37) rotate(40)">
+      <path d="M0,0 C-1.94,-0.85 -3.7,-3.1 -2.64,-4.79 Q-1.76,-5.75 -0.42,-5.47 L0,-4.85 L0.42,-5.47 Q1.76,-5.75 2.64,-4.79 C3.7,-3.1 1.94,-0.85 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.94,-0.85 -3.7,-3.1 -2.64,-4.79 Q-1.76,-5.75 -0.42,-5.47 L0,-4.85 L0.42,-5.47 Q1.76,-5.75 2.64,-4.79 C3.7,-3.1 1.94,-0.85 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.94,-0.85 -3.7,-3.1 -2.64,-4.79 Q-1.76,-5.75 -0.42,-5.47 L0,-4.85 L0.42,-5.47 Q1.76,-5.75 2.64,-4.79 C3.7,-3.1 1.94,-0.85 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.94,-0.85 -3.7,-3.1 -2.64,-4.79 Q-1.76,-5.75 -0.42,-5.47 L0,-4.85 L0.42,-5.47 Q1.76,-5.75 2.64,-4.79 C3.7,-3.1 1.94,-0.85 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.94,-0.85 -3.7,-3.1 -2.64,-4.79 Q-1.76,-5.75 -0.42,-5.47 L0,-4.85 L0.42,-5.47 Q1.76,-5.75 2.64,-4.79 C3.7,-3.1 1.94,-0.85 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.52" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.82" cy="1.33" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.7" cy="2.14" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.25" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.7" cy="-2.14" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.82" cy="-1.33" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(169.77 6.23) rotate(-20)">
+      <path d="M0,0 C-1.36,-0.59 -2.59,-2.17 -1.85,-3.35 Q-1.23,-4.02 -0.3,-3.83 L0,-3.39 L0.3,-3.83 Q1.23,-4.02 1.85,-3.35 C2.59,-2.17 1.36,-0.59 0,0 Z" transform="rotate(0)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.36,-0.59 -2.59,-2.17 -1.85,-3.35 Q-1.23,-4.02 -0.3,-3.83 L0,-3.39 L0.3,-3.83 Q1.23,-4.02 1.85,-3.35 C2.59,-2.17 1.36,-0.59 0,0 Z" transform="rotate(72)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.36,-0.59 -2.59,-2.17 -1.85,-3.35 Q-1.23,-4.02 -0.3,-3.83 L0,-3.39 L0.3,-3.83 Q1.23,-4.02 1.85,-3.35 C2.59,-2.17 1.36,-0.59 0,0 Z" transform="rotate(144)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.36,-0.59 -2.59,-2.17 -1.85,-3.35 Q-1.23,-4.02 -0.3,-3.83 L0,-3.39 L0.3,-3.83 Q1.23,-4.02 1.85,-3.35 C2.59,-2.17 1.36,-0.59 0,0 Z" transform="rotate(216)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.36,-0.59 -2.59,-2.17 -1.85,-3.35 Q-1.23,-4.02 -0.3,-3.83 L0,-3.39 L0.3,-3.83 Q1.23,-4.02 1.85,-3.35 C2.59,-2.17 1.36,-0.59 0,0 Z" transform="rotate(288)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.07" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.28" cy="0.93" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.49" cy="1.5" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.58" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.49" cy="-1.5" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.28" cy="-0.93" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.11,-0.55 -2.12,-2.02 -1.51,-3.11 Q-1.01,-3.74 -0.24,-3.55 L0,-3.15 L0.24,-3.55 Q1.01,-3.74 1.51,-3.11 C2.12,-2.02 1.11,-0.55 0,0 Z" transform="translate(6.23 169.77) rotate(35) translate(0 1.83)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r0)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-1">
+    <defs>
+      <linearGradient id="petal-r1" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M17,7 H159 A10,10 0 0 1 169,17 V159 A10,10 0 0 1 159,169 H17 A10,10 0 0 1 7,159 V17 A10,10 0 0 1 17,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(7.47 7.47) rotate(8)">
+      <path d="M0,0 C-2.68,-1.17 -5.11,-4.28 -3.65,-6.62 Q-2.43,-7.94 -0.58,-7.55 L0,-6.7 L0.58,-7.55 Q2.43,-7.94 3.65,-6.62 C5.11,-4.28 2.68,-1.17 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.68,-1.17 -5.11,-4.28 -3.65,-6.62 Q-2.43,-7.94 -0.58,-7.55 L0,-6.7 L0.58,-7.55 Q2.43,-7.94 3.65,-6.62 C5.11,-4.28 2.68,-1.17 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.68,-1.17 -5.11,-4.28 -3.65,-6.62 Q-2.43,-7.94 -0.58,-7.55 L0,-6.7 L0.58,-7.55 Q2.43,-7.94 3.65,-6.62 C5.11,-4.28 2.68,-1.17 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.68,-1.17 -5.11,-4.28 -3.65,-6.62 Q-2.43,-7.94 -0.58,-7.55 L0,-6.7 L0.58,-7.55 Q2.43,-7.94 3.65,-6.62 C5.11,-4.28 2.68,-1.17 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.68,-1.17 -5.11,-4.28 -3.65,-6.62 Q-2.43,-7.94 -0.58,-7.55 L0,-6.7 L0.58,-7.55 Q2.43,-7.94 3.65,-6.62 C5.11,-4.28 2.68,-1.17 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.1" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.52" cy="1.83" r="0.58" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.96" cy="2.96" r="0.58" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.12" cy="0" r="0.58" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.96" cy="-2.96" r="0.58" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.52" cy="-1.83" r="0.58" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.96 168.96) rotate(40)">
+      <path d="M0,0 C-2.06,-0.9 -3.93,-3.29 -2.81,-5.09 Q-1.87,-6.11 -0.45,-5.81 L0,-5.15 L0.45,-5.81 Q1.87,-6.11 2.81,-5.09 C3.93,-3.29 2.06,-0.9 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.06,-0.9 -3.93,-3.29 -2.81,-5.09 Q-1.87,-6.11 -0.45,-5.81 L0,-5.15 L0.45,-5.81 Q1.87,-6.11 2.81,-5.09 C3.93,-3.29 2.06,-0.9 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.06,-0.9 -3.93,-3.29 -2.81,-5.09 Q-1.87,-6.11 -0.45,-5.81 L0,-5.15 L0.45,-5.81 Q1.87,-6.11 2.81,-5.09 C3.93,-3.29 2.06,-0.9 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.06,-0.9 -3.93,-3.29 -2.81,-5.09 Q-1.87,-6.11 -0.45,-5.81 L0,-5.15 L0.45,-5.81 Q1.87,-6.11 2.81,-5.09 C3.93,-3.29 2.06,-0.9 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.06,-0.9 -3.93,-3.29 -2.81,-5.09 Q-1.87,-6.11 -0.45,-5.81 L0,-5.15 L0.45,-5.81 Q1.87,-6.11 2.81,-5.09 C3.93,-3.29 2.06,-0.9 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.62" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.94" cy="1.41" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.74" cy="2.28" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.4" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.74" cy="-2.28" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.94" cy="-1.41" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(169.38 6.62) rotate(-20)">
+      <path d="M0,0 C-1.44,-0.63 -2.75,-2.31 -1.97,-3.56 Q-1.31,-4.28 -0.31,-4.07 L0,-3.61 L0.31,-4.07 Q1.31,-4.28 1.97,-3.56 C2.75,-2.31 1.44,-0.63 0,0 Z" transform="rotate(0)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.44,-0.63 -2.75,-2.31 -1.97,-3.56 Q-1.31,-4.28 -0.31,-4.07 L0,-3.61 L0.31,-4.07 Q1.31,-4.28 1.97,-3.56 C2.75,-2.31 1.44,-0.63 0,0 Z" transform="rotate(72)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.44,-0.63 -2.75,-2.31 -1.97,-3.56 Q-1.31,-4.28 -0.31,-4.07 L0,-3.61 L0.31,-4.07 Q1.31,-4.28 1.97,-3.56 C2.75,-2.31 1.44,-0.63 0,0 Z" transform="rotate(144)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.44,-0.63 -2.75,-2.31 -1.97,-3.56 Q-1.31,-4.28 -0.31,-4.07 L0,-3.61 L0.31,-4.07 Q1.31,-4.28 1.97,-3.56 C2.75,-2.31 1.44,-0.63 0,0 Z" transform="rotate(216)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.44,-0.63 -2.75,-2.31 -1.97,-3.56 Q-1.31,-4.28 -0.31,-4.07 L0,-3.61 L0.31,-4.07 Q1.31,-4.28 1.97,-3.56 C2.75,-2.31 1.44,-0.63 0,0 Z" transform="rotate(288)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.13" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.36" cy="0.99" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.52" cy="1.6" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.68" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.52" cy="-1.6" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.36" cy="-0.99" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.18,-0.58 -2.25,-2.14 -1.61,-3.31 Q-1.07,-3.97 -0.26,-3.78 L0,-3.35 L0.26,-3.78 Q1.07,-3.97 1.61,-3.31 C2.25,-2.14 1.18,-0.58 0,0 Z" transform="translate(6.62 169.38) rotate(35) translate(0 1.95)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r1)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-3">
+    <defs>
+      <linearGradient id="petal-r3" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M19,7 H157 A12,12 0 0 1 169,19 V157 A12,12 0 0 1 157,169 H19 A12,12 0 0 1 7,157 V19 A12,12 0 0 1 19,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(7.76 7.76) rotate(8)">
+      <path d="M0,0 C-2.78,-1.21 -5.31,-4.45 -3.79,-6.88 Q-2.53,-8.26 -0.61,-7.85 L0,-6.96 L0.61,-7.85 Q2.53,-8.26 3.79,-6.88 C5.31,-4.45 2.78,-1.21 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.78,-1.21 -5.31,-4.45 -3.79,-6.88 Q-2.53,-8.26 -0.61,-7.85 L0,-6.96 L0.61,-7.85 Q2.53,-8.26 3.79,-6.88 C5.31,-4.45 2.78,-1.21 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.78,-1.21 -5.31,-4.45 -3.79,-6.88 Q-2.53,-8.26 -0.61,-7.85 L0,-6.96 L0.61,-7.85 Q2.53,-8.26 3.79,-6.88 C5.31,-4.45 2.78,-1.21 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.78,-1.21 -5.31,-4.45 -3.79,-6.88 Q-2.53,-8.26 -0.61,-7.85 L0,-6.96 L0.61,-7.85 Q2.53,-8.26 3.79,-6.88 C5.31,-4.45 2.78,-1.21 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.78,-1.21 -5.31,-4.45 -3.79,-6.88 Q-2.53,-8.26 -0.61,-7.85 L0,-6.96 L0.61,-7.85 Q2.53,-8.26 3.79,-6.88 C5.31,-4.45 2.78,-1.21 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.19" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.62" cy="1.9" r="0.61" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1" cy="3.08" r="0.61" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.24" cy="0" r="0.61" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1" cy="-3.08" r="0.61" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.62" cy="-1.9" r="0.61" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.68 168.68) rotate(40)">
+      <path d="M0,0 C-2.14,-0.93 -4.09,-3.42 -2.92,-5.29 Q-1.95,-6.35 -0.47,-6.04 L0,-5.35 L0.47,-6.04 Q1.95,-6.35 2.92,-5.29 C4.09,-3.42 2.14,-0.93 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.14,-0.93 -4.09,-3.42 -2.92,-5.29 Q-1.95,-6.35 -0.47,-6.04 L0,-5.35 L0.47,-6.04 Q1.95,-6.35 2.92,-5.29 C4.09,-3.42 2.14,-0.93 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.14,-0.93 -4.09,-3.42 -2.92,-5.29 Q-1.95,-6.35 -0.47,-6.04 L0,-5.35 L0.47,-6.04 Q1.95,-6.35 2.92,-5.29 C4.09,-3.42 2.14,-0.93 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.14,-0.93 -4.09,-3.42 -2.92,-5.29 Q-1.95,-6.35 -0.47,-6.04 L0,-5.35 L0.47,-6.04 Q1.95,-6.35 2.92,-5.29 C4.09,-3.42 2.14,-0.93 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.14,-0.93 -4.09,-3.42 -2.92,-5.29 Q-1.95,-6.35 -0.47,-6.04 L0,-5.35 L0.47,-6.04 Q1.95,-6.35 2.92,-5.29 C4.09,-3.42 2.14,-0.93 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.68" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.01" cy="1.46" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.77" cy="2.37" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.49" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.77" cy="-2.37" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.01" cy="-1.46" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(169.12 6.88) rotate(-20)">
+      <path d="M0,0 C-1.5,-0.65 -2.86,-2.4 -2.04,-3.7 Q-1.36,-4.45 -0.33,-4.23 L0,-3.75 L0.33,-4.23 Q1.36,-4.45 2.04,-3.7 C2.86,-2.4 1.5,-0.65 0,0 Z" transform="rotate(0)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.5,-0.65 -2.86,-2.4 -2.04,-3.7 Q-1.36,-4.45 -0.33,-4.23 L0,-3.75 L0.33,-4.23 Q1.36,-4.45 2.04,-3.7 C2.86,-2.4 1.5,-0.65 0,0 Z" transform="rotate(72)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.5,-0.65 -2.86,-2.4 -2.04,-3.7 Q-1.36,-4.45 -0.33,-4.23 L0,-3.75 L0.33,-4.23 Q1.36,-4.45 2.04,-3.7 C2.86,-2.4 1.5,-0.65 0,0 Z" transform="rotate(144)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.5,-0.65 -2.86,-2.4 -2.04,-3.7 Q-1.36,-4.45 -0.33,-4.23 L0,-3.75 L0.33,-4.23 Q1.36,-4.45 2.04,-3.7 C2.86,-2.4 1.5,-0.65 0,0 Z" transform="rotate(216)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.5,-0.65 -2.86,-2.4 -2.04,-3.7 Q-1.36,-4.45 -0.33,-4.23 L0,-3.75 L0.33,-4.23 Q1.36,-4.45 2.04,-3.7 C2.86,-2.4 1.5,-0.65 0,0 Z" transform="rotate(288)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.18" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.41" cy="1.02" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.54" cy="1.66" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.74" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.54" cy="-1.66" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.41" cy="-1.02" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.22,-0.61 -2.34,-2.23 -1.67,-3.44 Q-1.11,-4.13 -0.27,-3.93 L0,-3.48 L0.27,-3.93 Q1.11,-4.13 1.67,-3.44 C2.34,-2.23 1.22,-0.61 0,0 Z" transform="translate(6.88 169.12) rotate(35) translate(0 2.02)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r3)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-4">
+    <defs>
+      <linearGradient id="petal-r4" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M20,7 H156 A13,13 0 0 1 169,20 V156 A13,13 0 0 1 156,169 H20 A13,13 0 0 1 7,156 V20 A13,13 0 0 1 20,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(7.91 7.91) rotate(8)">
+      <path d="M0,0 C-2.84,-1.24 -5.41,-4.54 -3.87,-7.01 Q-2.58,-8.41 -0.62,-8 L0,-7.09 L0.62,-8 Q2.58,-8.41 3.87,-7.01 C5.41,-4.54 2.84,-1.24 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.84,-1.24 -5.41,-4.54 -3.87,-7.01 Q-2.58,-8.41 -0.62,-8 L0,-7.09 L0.62,-8 Q2.58,-8.41 3.87,-7.01 C5.41,-4.54 2.84,-1.24 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.84,-1.24 -5.41,-4.54 -3.87,-7.01 Q-2.58,-8.41 -0.62,-8 L0,-7.09 L0.62,-8 Q2.58,-8.41 3.87,-7.01 C5.41,-4.54 2.84,-1.24 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.84,-1.24 -5.41,-4.54 -3.87,-7.01 Q-2.58,-8.41 -0.62,-8 L0,-7.09 L0.62,-8 Q2.58,-8.41 3.87,-7.01 C5.41,-4.54 2.84,-1.24 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.84,-1.24 -5.41,-4.54 -3.87,-7.01 Q-2.58,-8.41 -0.62,-8 L0,-7.09 L0.62,-8 Q2.58,-8.41 3.87,-7.01 C5.41,-4.54 2.84,-1.24 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.23" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.67" cy="1.94" r="0.62" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.02" cy="3.14" r="0.62" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.3" cy="0" r="0.62" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.02" cy="-3.14" r="0.62" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.67" cy="-1.94" r="0.62" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.54 168.54) rotate(40)">
+      <path d="M0,0 C-2.18,-0.95 -4.16,-3.49 -2.97,-5.39 Q-1.98,-6.47 -0.48,-6.15 L0,-5.46 L0.48,-6.15 Q1.98,-6.47 2.97,-5.39 C4.16,-3.49 2.18,-0.95 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.18,-0.95 -4.16,-3.49 -2.97,-5.39 Q-1.98,-6.47 -0.48,-6.15 L0,-5.46 L0.48,-6.15 Q1.98,-6.47 2.97,-5.39 C4.16,-3.49 2.18,-0.95 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.18,-0.95 -4.16,-3.49 -2.97,-5.39 Q-1.98,-6.47 -0.48,-6.15 L0,-5.46 L0.48,-6.15 Q1.98,-6.47 2.97,-5.39 C4.16,-3.49 2.18,-0.95 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.18,-0.95 -4.16,-3.49 -2.97,-5.39 Q-1.98,-6.47 -0.48,-6.15 L0,-5.46 L0.48,-6.15 Q1.98,-6.47 2.97,-5.39 C4.16,-3.49 2.18,-0.95 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.18,-0.95 -4.16,-3.49 -2.97,-5.39 Q-1.98,-6.47 -0.48,-6.15 L0,-5.46 L0.48,-6.15 Q1.98,-6.47 2.97,-5.39 C4.16,-3.49 2.18,-0.95 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.71" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.05" cy="1.49" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.78" cy="2.41" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.54" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.78" cy="-2.41" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.05" cy="-1.49" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.99 7.01) rotate(-20)">
+      <path d="M0,0 C-1.53,-0.67 -2.91,-2.44 -2.08,-3.77 Q-1.39,-4.53 -0.33,-4.31 L0,-3.82 L0.33,-4.31 Q1.39,-4.53 2.08,-3.77 C2.91,-2.44 1.53,-0.67 0,0 Z" transform="rotate(0)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.53,-0.67 -2.91,-2.44 -2.08,-3.77 Q-1.39,-4.53 -0.33,-4.31 L0,-3.82 L0.33,-4.31 Q1.39,-4.53 2.08,-3.77 C2.91,-2.44 1.53,-0.67 0,0 Z" transform="rotate(72)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.53,-0.67 -2.91,-2.44 -2.08,-3.77 Q-1.39,-4.53 -0.33,-4.31 L0,-3.82 L0.33,-4.31 Q1.39,-4.53 2.08,-3.77 C2.91,-2.44 1.53,-0.67 0,0 Z" transform="rotate(144)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.53,-0.67 -2.91,-2.44 -2.08,-3.77 Q-1.39,-4.53 -0.33,-4.31 L0,-3.82 L0.33,-4.31 Q1.39,-4.53 2.08,-3.77 C2.91,-2.44 1.53,-0.67 0,0 Z" transform="rotate(216)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.53,-0.67 -2.91,-2.44 -2.08,-3.77 Q-1.39,-4.53 -0.33,-4.31 L0,-3.82 L0.33,-4.31 Q1.39,-4.53 2.08,-3.77 C2.91,-2.44 1.53,-0.67 0,0 Z" transform="rotate(288)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.2" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.44" cy="1.04" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.55" cy="1.69" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.78" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.55" cy="-1.69" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.44" cy="-1.04" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.25,-0.62 -2.38,-2.27 -1.7,-3.51 Q-1.13,-4.21 -0.27,-4 L0,-3.55 L0.27,-4 Q1.13,-4.21 1.7,-3.51 C2.38,-2.27 1.25,-0.62 0,0 Z" transform="translate(7.01 168.99) rotate(35) translate(0 2.06)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r4)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-6">
+    <defs>
+      <linearGradient id="petal-r6" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M22,7 H154 A15,15 0 0 1 169,22 V154 A15,15 0 0 1 154,169 H22 A15,15 0 0 1 7,154 V22 A15,15 0 0 1 22,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(8.2 8.2) rotate(8)">
+      <path d="M0,0 C-2.94,-1.28 -5.61,-4.7 -4.01,-7.27 Q-2.67,-8.73 -0.64,-8.3 L0,-7.36 L0.64,-8.3 Q2.67,-8.73 4.01,-7.27 C5.61,-4.7 2.94,-1.28 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.94,-1.28 -5.61,-4.7 -4.01,-7.27 Q-2.67,-8.73 -0.64,-8.3 L0,-7.36 L0.64,-8.3 Q2.67,-8.73 4.01,-7.27 C5.61,-4.7 2.94,-1.28 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.94,-1.28 -5.61,-4.7 -4.01,-7.27 Q-2.67,-8.73 -0.64,-8.3 L0,-7.36 L0.64,-8.3 Q2.67,-8.73 4.01,-7.27 C5.61,-4.7 2.94,-1.28 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.94,-1.28 -5.61,-4.7 -4.01,-7.27 Q-2.67,-8.73 -0.64,-8.3 L0,-7.36 L0.64,-8.3 Q2.67,-8.73 4.01,-7.27 C5.61,-4.7 2.94,-1.28 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.94,-1.28 -5.61,-4.7 -4.01,-7.27 Q-2.67,-8.73 -0.64,-8.3 L0,-7.36 L0.64,-8.3 Q2.67,-8.73 4.01,-7.27 C5.61,-4.7 2.94,-1.28 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.31" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.77" cy="2.01" r="0.64" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.06" cy="3.25" r="0.64" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.42" cy="0" r="0.64" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.06" cy="-3.25" r="0.64" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.77" cy="-2.01" r="0.64" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.26 168.26) rotate(40)">
+      <path d="M0,0 C-2.26,-0.99 -4.32,-3.62 -3.08,-5.59 Q-2.06,-6.71 -0.49,-6.38 L0,-5.66 L0.49,-6.38 Q2.06,-6.71 3.08,-5.59 C4.32,-3.62 2.26,-0.99 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.26,-0.99 -4.32,-3.62 -3.08,-5.59 Q-2.06,-6.71 -0.49,-6.38 L0,-5.66 L0.49,-6.38 Q2.06,-6.71 3.08,-5.59 C4.32,-3.62 2.26,-0.99 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.26,-0.99 -4.32,-3.62 -3.08,-5.59 Q-2.06,-6.71 -0.49,-6.38 L0,-5.66 L0.49,-6.38 Q2.06,-6.71 3.08,-5.59 C4.32,-3.62 2.26,-0.99 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.26,-0.99 -4.32,-3.62 -3.08,-5.59 Q-2.06,-6.71 -0.49,-6.38 L0,-5.66 L0.49,-6.38 Q2.06,-6.71 3.08,-5.59 C4.32,-3.62 2.26,-0.99 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.26,-0.99 -4.32,-3.62 -3.08,-5.59 Q-2.06,-6.71 -0.49,-6.38 L0,-5.66 L0.49,-6.38 Q2.06,-6.71 3.08,-5.59 C4.32,-3.62 2.26,-0.99 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.78" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.13" cy="1.55" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.81" cy="2.5" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.63" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.81" cy="-2.5" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.13" cy="-1.55" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.73 7.27) rotate(-20)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.92 Q-1.44,-4.7 -0.35,-4.47 L0,-3.96 L0.35,-4.47 Q1.44,-4.7 2.16,-3.92 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.92 Q-1.44,-4.7 -0.35,-4.47 L0,-3.96 L0.35,-4.47 Q1.44,-4.7 2.16,-3.92 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.92 Q-1.44,-4.7 -0.35,-4.47 L0,-3.96 L0.35,-4.47 Q1.44,-4.7 2.16,-3.92 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.92 Q-1.44,-4.7 -0.35,-4.47 L0,-3.96 L0.35,-4.47 Q1.44,-4.7 2.16,-3.92 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.92 Q-1.44,-4.7 -0.35,-4.47 L0,-3.96 L0.35,-4.47 Q1.44,-4.7 2.16,-3.92 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.29,-0.64 -2.47,-2.35 -1.76,-3.64 Q-1.18,-4.36 -0.28,-4.15 L0,-3.68 L0.28,-4.15 Q1.18,-4.36 1.76,-3.64 C2.47,-2.35 1.29,-0.64 0,0 Z" transform="translate(7.27 168.73) rotate(35) translate(0 2.14)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r6)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-8">
+    <defs>
+      <linearGradient id="petal-r8" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M24,7 H152 A17,17 0 0 1 169,24 V152 A17,17 0 0 1 152,169 H24 A17,17 0 0 1 7,152 V24 A17,17 0 0 1 24,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(8.49 8.49) rotate(8)">
+      <path d="M0,0 C-3.05,-1.33 -5.81,-4.87 -4.15,-7.53 Q-2.77,-9.04 -0.66,-8.59 L0,-7.62 L0.66,-8.59 Q2.77,-9.04 4.15,-7.53 C5.81,-4.87 3.05,-1.33 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.05,-1.33 -5.81,-4.87 -4.15,-7.53 Q-2.77,-9.04 -0.66,-8.59 L0,-7.62 L0.66,-8.59 Q2.77,-9.04 4.15,-7.53 C5.81,-4.87 3.05,-1.33 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.05,-1.33 -5.81,-4.87 -4.15,-7.53 Q-2.77,-9.04 -0.66,-8.59 L0,-7.62 L0.66,-8.59 Q2.77,-9.04 4.15,-7.53 C5.81,-4.87 3.05,-1.33 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.05,-1.33 -5.81,-4.87 -4.15,-7.53 Q-2.77,-9.04 -0.66,-8.59 L0,-7.62 L0.66,-8.59 Q2.77,-9.04 4.15,-7.53 C5.81,-4.87 3.05,-1.33 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.05,-1.33 -5.81,-4.87 -4.15,-7.53 Q-2.77,-9.04 -0.66,-8.59 L0,-7.62 L0.66,-8.59 Q2.77,-9.04 4.15,-7.53 C5.81,-4.87 3.05,-1.33 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.39" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.87" cy="2.08" r="0.66" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.1" cy="3.37" r="0.66" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.54" cy="0" r="0.66" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.1" cy="-3.37" r="0.66" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.87" cy="-2.08" r="0.66" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(167.99 167.99) rotate(40)">
+      <path d="M0,0 C-2.34,-1.02 -4.47,-3.75 -3.19,-5.79 Q-2.13,-6.95 -0.51,-6.61 L0,-5.86 L0.51,-6.61 Q2.13,-6.95 3.19,-5.79 C4.47,-3.75 2.34,-1.02 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.34,-1.02 -4.47,-3.75 -3.19,-5.79 Q-2.13,-6.95 -0.51,-6.61 L0,-5.86 L0.51,-6.61 Q2.13,-6.95 3.19,-5.79 C4.47,-3.75 2.34,-1.02 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.34,-1.02 -4.47,-3.75 -3.19,-5.79 Q-2.13,-6.95 -0.51,-6.61 L0,-5.86 L0.51,-6.61 Q2.13,-6.95 3.19,-5.79 C4.47,-3.75 2.34,-1.02 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.34,-1.02 -4.47,-3.75 -3.19,-5.79 Q-2.13,-6.95 -0.51,-6.61 L0,-5.86 L0.51,-6.61 Q2.13,-6.95 3.19,-5.79 C4.47,-3.75 2.34,-1.02 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.34,-1.02 -4.47,-3.75 -3.19,-5.79 Q-2.13,-6.95 -0.51,-6.61 L0,-5.86 L0.51,-6.61 Q2.13,-6.95 3.19,-5.79 C4.47,-3.75 2.34,-1.02 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.84" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.21" cy="1.6" r="0.51" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.84" cy="2.59" r="0.51" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.73" cy="0" r="0.51" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.84" cy="-2.59" r="0.51" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.21" cy="-1.6" r="0.51" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.47 7.53) rotate(-20)">
+      <path d="M0,0 C-1.64,-0.72 -3.13,-2.62 -2.24,-4.06 Q-1.49,-4.87 -0.36,-4.63 L0,-4.1 L0.36,-4.63 Q1.49,-4.87 2.24,-4.06 C3.13,-2.62 1.64,-0.72 0,0 Z" transform="rotate(0)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.64,-0.72 -3.13,-2.62 -2.24,-4.06 Q-1.49,-4.87 -0.36,-4.63 L0,-4.1 L0.36,-4.63 Q1.49,-4.87 2.24,-4.06 C3.13,-2.62 1.64,-0.72 0,0 Z" transform="rotate(72)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.64,-0.72 -3.13,-2.62 -2.24,-4.06 Q-1.49,-4.87 -0.36,-4.63 L0,-4.1 L0.36,-4.63 Q1.49,-4.87 2.24,-4.06 C3.13,-2.62 1.64,-0.72 0,0 Z" transform="rotate(144)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.64,-0.72 -3.13,-2.62 -2.24,-4.06 Q-1.49,-4.87 -0.36,-4.63 L0,-4.1 L0.36,-4.63 Q1.49,-4.87 2.24,-4.06 C3.13,-2.62 1.64,-0.72 0,0 Z" transform="rotate(216)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.64,-0.72 -3.13,-2.62 -2.24,-4.06 Q-1.49,-4.87 -0.36,-4.63 L0,-4.1 L0.36,-4.63 Q1.49,-4.87 2.24,-4.06 C3.13,-2.62 1.64,-0.72 0,0 Z" transform="rotate(288)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.29" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.54" cy="1.12" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.59" cy="1.82" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.91" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.59" cy="-1.82" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.54" cy="-1.12" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.34,-0.66 -2.56,-2.44 -1.83,-3.77 Q-1.22,-4.52 -0.29,-4.3 L0,-3.81 L0.29,-4.3 Q1.22,-4.52 1.83,-3.77 C2.56,-2.44 1.34,-0.66 0,0 Z" transform="translate(7.53 168.47) rotate(35) translate(0 2.22)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r8)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-10">
+    <defs>
+      <linearGradient id="petal-r10" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M26,7 H150 A19,19 0 0 1 169,26 V150 A19,19 0 0 1 150,169 H26 A19,19 0 0 1 7,150 V26 A19,19 0 0 1 26,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(8.79 8.79) rotate(8)">
+      <path d="M0,0 C-3.15,-1.38 -6.02,-5.04 -4.3,-7.79 Q-2.86,-9.35 -0.69,-8.89 L0,-7.88 L0.69,-8.89 Q2.86,-9.35 4.3,-7.79 C6.02,-5.04 3.15,-1.38 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.15,-1.38 -6.02,-5.04 -4.3,-7.79 Q-2.86,-9.35 -0.69,-8.89 L0,-7.88 L0.69,-8.89 Q2.86,-9.35 4.3,-7.79 C6.02,-5.04 3.15,-1.38 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.15,-1.38 -6.02,-5.04 -4.3,-7.79 Q-2.86,-9.35 -0.69,-8.89 L0,-7.88 L0.69,-8.89 Q2.86,-9.35 4.3,-7.79 C6.02,-5.04 3.15,-1.38 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.15,-1.38 -6.02,-5.04 -4.3,-7.79 Q-2.86,-9.35 -0.69,-8.89 L0,-7.88 L0.69,-8.89 Q2.86,-9.35 4.3,-7.79 C6.02,-5.04 3.15,-1.38 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.15,-1.38 -6.02,-5.04 -4.3,-7.79 Q-2.86,-9.35 -0.69,-8.89 L0,-7.88 L0.69,-8.89 Q2.86,-9.35 4.3,-7.79 C6.02,-5.04 3.15,-1.38 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.48" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.97" cy="2.16" r="0.69" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.13" cy="3.49" r="0.69" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.67" cy="0" r="0.69" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.13" cy="-3.49" r="0.69" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.97" cy="-2.16" r="0.69" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(167.71 167.71) rotate(40)">
+      <path d="M0,0 C-2.42,-1.06 -4.63,-3.88 -3.31,-5.99 Q-2.2,-7.19 -0.53,-6.84 L0,-6.06 L0.53,-6.84 Q2.2,-7.19 3.31,-5.99 C4.63,-3.88 2.42,-1.06 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.42,-1.06 -4.63,-3.88 -3.31,-5.99 Q-2.2,-7.19 -0.53,-6.84 L0,-6.06 L0.53,-6.84 Q2.2,-7.19 3.31,-5.99 C4.63,-3.88 2.42,-1.06 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.42,-1.06 -4.63,-3.88 -3.31,-5.99 Q-2.2,-7.19 -0.53,-6.84 L0,-6.06 L0.53,-6.84 Q2.2,-7.19 3.31,-5.99 C4.63,-3.88 2.42,-1.06 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.42,-1.06 -4.63,-3.88 -3.31,-5.99 Q-2.2,-7.19 -0.53,-6.84 L0,-6.06 L0.53,-6.84 Q2.2,-7.19 3.31,-5.99 C4.63,-3.88 2.42,-1.06 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.42,-1.06 -4.63,-3.88 -3.31,-5.99 Q-2.2,-7.19 -0.53,-6.84 L0,-6.06 L0.53,-6.84 Q2.2,-7.19 3.31,-5.99 C4.63,-3.88 2.42,-1.06 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.9" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.28" cy="1.66" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.87" cy="2.68" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.82" cy="0" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.87" cy="-2.68" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.28" cy="-1.66" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(168.21 7.79) rotate(-20)">
+      <path d="M0,0 C-1.7,-0.74 -3.24,-2.71 -2.31,-4.2 Q-1.54,-5.04 -0.37,-4.79 L0,-4.25 L0.37,-4.79 Q1.54,-5.04 2.31,-4.2 C3.24,-2.71 1.7,-0.74 0,0 Z" transform="rotate(0)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.7,-0.74 -3.24,-2.71 -2.31,-4.2 Q-1.54,-5.04 -0.37,-4.79 L0,-4.25 L0.37,-4.79 Q1.54,-5.04 2.31,-4.2 C3.24,-2.71 1.7,-0.74 0,0 Z" transform="rotate(72)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.7,-0.74 -3.24,-2.71 -2.31,-4.2 Q-1.54,-5.04 -0.37,-4.79 L0,-4.25 L0.37,-4.79 Q1.54,-5.04 2.31,-4.2 C3.24,-2.71 1.7,-0.74 0,0 Z" transform="rotate(144)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.7,-0.74 -3.24,-2.71 -2.31,-4.2 Q-1.54,-5.04 -0.37,-4.79 L0,-4.25 L0.37,-4.79 Q1.54,-5.04 2.31,-4.2 C3.24,-2.71 1.7,-0.74 0,0 Z" transform="rotate(216)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.7,-0.74 -3.24,-2.71 -2.31,-4.2 Q-1.54,-5.04 -0.37,-4.79 L0,-4.25 L0.37,-4.79 Q1.54,-5.04 2.31,-4.2 C3.24,-2.71 1.7,-0.74 0,0 Z" transform="rotate(288)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.33" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.6" cy="1.16" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.61" cy="1.88" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.97" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.61" cy="-1.88" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.6" cy="-1.16" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.39,-0.69 -2.65,-2.52 -1.89,-3.9 Q-1.26,-4.68 -0.3,-4.45 L0,-3.94 L0.3,-4.45 Q1.26,-4.68 1.89,-3.9 C2.65,-2.52 1.39,-0.69 0,0 Z" transform="translate(7.79 168.21) rotate(35) translate(0 2.29)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r10)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-14">
+    <defs>
+      <linearGradient id="petal-r14" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M30,7 H146 A23,23 0 0 1 169,30 V146 A23,23 0 0 1 146,169 H30 A23,23 0 0 1 7,146 V30 A23,23 0 0 1 30,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(9.38 9.38) rotate(8)">
+      <path d="M0,0 C-3.36,-1.47 -6.42,-5.38 -4.58,-8.31 Q-3.06,-9.98 -0.73,-9.49 L0,-8.41 L0.73,-9.49 Q3.06,-9.98 4.58,-8.31 C6.42,-5.38 3.36,-1.47 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.36,-1.47 -6.42,-5.38 -4.58,-8.31 Q-3.06,-9.98 -0.73,-9.49 L0,-8.41 L0.73,-9.49 Q3.06,-9.98 4.58,-8.31 C6.42,-5.38 3.36,-1.47 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.36,-1.47 -6.42,-5.38 -4.58,-8.31 Q-3.06,-9.98 -0.73,-9.49 L0,-8.41 L0.73,-9.49 Q3.06,-9.98 4.58,-8.31 C6.42,-5.38 3.36,-1.47 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.36,-1.47 -6.42,-5.38 -4.58,-8.31 Q-3.06,-9.98 -0.73,-9.49 L0,-8.41 L0.73,-9.49 Q3.06,-9.98 4.58,-8.31 C6.42,-5.38 3.36,-1.47 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.36,-1.47 -6.42,-5.38 -4.58,-8.31 Q-3.06,-9.98 -0.73,-9.49 L0,-8.41 L0.73,-9.49 Q3.06,-9.98 4.58,-8.31 C6.42,-5.38 3.36,-1.47 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.64" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="3.17" cy="2.3" r="0.73" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.21" cy="3.72" r="0.73" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.91" cy="0" r="0.73" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.21" cy="-3.72" r="0.73" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="3.17" cy="-2.3" r="0.73" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(167.16 167.16) rotate(40)">
+      <path d="M0,0 C-2.59,-1.13 -4.94,-4.14 -3.53,-6.4 Q-2.35,-7.67 -0.56,-7.3 L0,-6.47 L0.56,-7.3 Q2.35,-7.67 3.53,-6.4 C4.94,-4.14 2.59,-1.13 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.59,-1.13 -4.94,-4.14 -3.53,-6.4 Q-2.35,-7.67 -0.56,-7.3 L0,-6.47 L0.56,-7.3 Q2.35,-7.67 3.53,-6.4 C4.94,-4.14 2.59,-1.13 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.59,-1.13 -4.94,-4.14 -3.53,-6.4 Q-2.35,-7.67 -0.56,-7.3 L0,-6.47 L0.56,-7.3 Q2.35,-7.67 3.53,-6.4 C4.94,-4.14 2.59,-1.13 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.59,-1.13 -4.94,-4.14 -3.53,-6.4 Q-2.35,-7.67 -0.56,-7.3 L0,-6.47 L0.56,-7.3 Q2.35,-7.67 3.53,-6.4 C4.94,-4.14 2.59,-1.13 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.59,-1.13 -4.94,-4.14 -3.53,-6.4 Q-2.35,-7.67 -0.56,-7.3 L0,-6.47 L0.56,-7.3 Q2.35,-7.67 3.53,-6.4 C4.94,-4.14 2.59,-1.13 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.03" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.43" cy="1.77" r="0.56" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.93" cy="2.86" r="0.56" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.01" cy="0" r="0.56" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.93" cy="-2.86" r="0.56" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.43" cy="-1.77" r="0.56" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(167.69 8.31) rotate(-20)">
+      <path d="M0,0 C-1.81,-0.79 -3.46,-2.9 -2.47,-4.48 Q-1.65,-5.37 -0.39,-5.11 L0,-4.53 L0.39,-5.11 Q1.65,-5.37 2.47,-4.48 C3.46,-2.9 1.81,-0.79 0,0 Z" transform="rotate(0)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.81,-0.79 -3.46,-2.9 -2.47,-4.48 Q-1.65,-5.37 -0.39,-5.11 L0,-4.53 L0.39,-5.11 Q1.65,-5.37 2.47,-4.48 C3.46,-2.9 1.81,-0.79 0,0 Z" transform="rotate(72)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.81,-0.79 -3.46,-2.9 -2.47,-4.48 Q-1.65,-5.37 -0.39,-5.11 L0,-4.53 L0.39,-5.11 Q1.65,-5.37 2.47,-4.48 C3.46,-2.9 1.81,-0.79 0,0 Z" transform="rotate(144)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.81,-0.79 -3.46,-2.9 -2.47,-4.48 Q-1.65,-5.37 -0.39,-5.11 L0,-4.53 L0.39,-5.11 Q1.65,-5.37 2.47,-4.48 C3.46,-2.9 1.81,-0.79 0,0 Z" transform="rotate(216)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.81,-0.79 -3.46,-2.9 -2.47,-4.48 Q-1.65,-5.37 -0.39,-5.11 L0,-4.53 L0.39,-5.11 Q1.65,-5.37 2.47,-4.48 C3.46,-2.9 1.81,-0.79 0,0 Z" transform="rotate(288)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.42" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.7" cy="1.24" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.65" cy="2" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.11" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.65" cy="-2" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.7" cy="-1.24" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.48,-0.73 -2.82,-2.69 -2.02,-4.16 Q-1.34,-4.99 -0.32,-4.74 L0,-4.21 L0.32,-4.74 Q1.34,-4.99 2.02,-4.16 C2.82,-2.69 1.48,-0.73 0,0 Z" transform="translate(8.31 167.69) rotate(35) translate(0 2.45)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r14)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-18">
+    <defs>
+      <linearGradient id="petal-r18" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M34,7 H142 A27,27 0 0 1 169,34 V142 A27,27 0 0 1 142,169 H34 A27,27 0 0 1 7,142 V34 A27,27 0 0 1 34,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(9.96 9.96) rotate(8)">
+      <path d="M0,0 C-3.57,-1.56 -6.82,-5.72 -4.87,-8.83 Q-3.25,-10.6 -0.78,-10.08 L0,-8.94 L0.78,-10.08 Q3.25,-10.6 4.87,-8.83 C6.82,-5.72 3.57,-1.56 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.57,-1.56 -6.82,-5.72 -4.87,-8.83 Q-3.25,-10.6 -0.78,-10.08 L0,-8.94 L0.78,-10.08 Q3.25,-10.6 4.87,-8.83 C6.82,-5.72 3.57,-1.56 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.57,-1.56 -6.82,-5.72 -4.87,-8.83 Q-3.25,-10.6 -0.78,-10.08 L0,-8.94 L0.78,-10.08 Q3.25,-10.6 4.87,-8.83 C6.82,-5.72 3.57,-1.56 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.57,-1.56 -6.82,-5.72 -4.87,-8.83 Q-3.25,-10.6 -0.78,-10.08 L0,-8.94 L0.78,-10.08 Q3.25,-10.6 4.87,-8.83 C6.82,-5.72 3.57,-1.56 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.57,-1.56 -6.82,-5.72 -4.87,-8.83 Q-3.25,-10.6 -0.78,-10.08 L0,-8.94 L0.78,-10.08 Q3.25,-10.6 4.87,-8.83 C6.82,-5.72 3.57,-1.56 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.81" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="3.36" cy="2.44" r="0.78" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.28" cy="3.95" r="0.78" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-4.16" cy="0" r="0.78" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.28" cy="-3.95" r="0.78" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="3.36" cy="-2.44" r="0.78" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(166.6 166.6) rotate(40)">
+      <path d="M0,0 C-2.75,-1.2 -5.25,-4.4 -3.75,-6.8 Q-2.5,-8.16 -0.6,-7.76 L0,-6.88 L0.6,-7.76 Q2.5,-8.16 3.75,-6.8 C5.25,-4.4 2.75,-1.2 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.75,-1.2 -5.25,-4.4 -3.75,-6.8 Q-2.5,-8.16 -0.6,-7.76 L0,-6.88 L0.6,-7.76 Q2.5,-8.16 3.75,-6.8 C5.25,-4.4 2.75,-1.2 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.75,-1.2 -5.25,-4.4 -3.75,-6.8 Q-2.5,-8.16 -0.6,-7.76 L0,-6.88 L0.6,-7.76 Q2.5,-8.16 3.75,-6.8 C5.25,-4.4 2.75,-1.2 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.75,-1.2 -5.25,-4.4 -3.75,-6.8 Q-2.5,-8.16 -0.6,-7.76 L0,-6.88 L0.6,-7.76 Q2.5,-8.16 3.75,-6.8 C5.25,-4.4 2.75,-1.2 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.75,-1.2 -5.25,-4.4 -3.75,-6.8 Q-2.5,-8.16 -0.6,-7.76 L0,-6.88 L0.6,-7.76 Q2.5,-8.16 3.75,-6.8 C5.25,-4.4 2.75,-1.2 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.16" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.59" cy="1.88" r="0.6" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.99" cy="3.04" r="0.6" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-3.2" cy="0" r="0.6" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.99" cy="-3.04" r="0.6" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.59" cy="-1.88" r="0.6" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(167.17 8.83) rotate(-20)">
+      <path d="M0,0 C-1.92,-0.84 -3.67,-3.08 -2.62,-4.76 Q-1.75,-5.71 -0.42,-5.43 L0,-4.81 L0.42,-5.43 Q1.75,-5.71 2.62,-4.76 C3.67,-3.08 1.92,-0.84 0,0 Z" transform="rotate(0)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.92,-0.84 -3.67,-3.08 -2.62,-4.76 Q-1.75,-5.71 -0.42,-5.43 L0,-4.81 L0.42,-5.43 Q1.75,-5.71 2.62,-4.76 C3.67,-3.08 1.92,-0.84 0,0 Z" transform="rotate(72)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.92,-0.84 -3.67,-3.08 -2.62,-4.76 Q-1.75,-5.71 -0.42,-5.43 L0,-4.81 L0.42,-5.43 Q1.75,-5.71 2.62,-4.76 C3.67,-3.08 1.92,-0.84 0,0 Z" transform="rotate(144)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.92,-0.84 -3.67,-3.08 -2.62,-4.76 Q-1.75,-5.71 -0.42,-5.43 L0,-4.81 L0.42,-5.43 Q1.75,-5.71 2.62,-4.76 C3.67,-3.08 1.92,-0.84 0,0 Z" transform="rotate(216)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.92,-0.84 -3.67,-3.08 -2.62,-4.76 Q-1.75,-5.71 -0.42,-5.43 L0,-4.81 L0.42,-5.43 Q1.75,-5.71 2.62,-4.76 C3.67,-3.08 1.92,-0.84 0,0 Z" transform="rotate(288)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.51" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.81" cy="1.32" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.69" cy="2.13" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.24" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.69" cy="-2.13" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.81" cy="-1.32" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.57,-0.78 -3,-2.86 -2.14,-4.42 Q-1.43,-5.3 -0.34,-5.04 L0,-4.47 L0.34,-5.04 Q1.43,-5.3 2.14,-4.42 C3,-2.86 1.57,-0.78 0,0 Z" transform="translate(8.83 167.17) rotate(35) translate(0 2.6)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r18)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+  <g id="rounding-35">
+    <defs>
+      <linearGradient id="petal-r35" x1=".5" y1="1" x2=".5" y2="0"><stop offset="0" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary_fixed.default.hex}}"/></linearGradient>
+    </defs>
+    <path d="M51,7 H125 A44,44 0 0 1 169,51 V125 A44,44 0 0 1 125,169 H51 A44,44 0 0 1 7,125 V51 A44,44 0 0 1 51,7 Z" fill="none" stroke="{{colors.outline.default.hex}}" stroke-width="1.2" stroke-opacity=".8"/>
+    <g transform="translate(12.46 12.46) rotate(8)">
+      <path d="M0,0 C-4.47,-1.95 -8.53,-7.15 -6.09,-11.05 Q-4.06,-13.26 -0.97,-12.61 L0,-11.18 L0.97,-12.61 Q4.06,-13.26 6.09,-11.05 C8.53,-7.15 4.47,-1.95 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-4.47,-1.95 -8.53,-7.15 -6.09,-11.05 Q-4.06,-13.26 -0.97,-12.61 L0,-11.18 L0.97,-12.61 Q4.06,-13.26 6.09,-11.05 C8.53,-7.15 4.47,-1.95 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-4.47,-1.95 -8.53,-7.15 -6.09,-11.05 Q-4.06,-13.26 -0.97,-12.61 L0,-11.18 L0.97,-12.61 Q4.06,-13.26 6.09,-11.05 C8.53,-7.15 4.47,-1.95 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-4.47,-1.95 -8.53,-7.15 -6.09,-11.05 Q-4.06,-13.26 -0.97,-12.61 L0,-11.18 L0.97,-12.61 Q4.06,-13.26 6.09,-11.05 C8.53,-7.15 4.47,-1.95 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-4.47,-1.95 -8.53,-7.15 -6.09,-11.05 Q-4.06,-13.26 -0.97,-12.61 L0,-11.18 L0.97,-12.61 Q4.06,-13.26 6.09,-11.05 C8.53,-7.15 4.47,-1.95 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="3.51" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="4.21" cy="3.06" r="0.97" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.61" cy="4.95" r="0.97" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-5.2" cy="0" r="0.97" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.61" cy="-4.95" r="0.97" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="4.21" cy="-3.06" r="0.97" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(39 7) rotate(30)">
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.99,-0.87 -3.81,-3.19 -2.72,-4.93 Q-1.81,-5.92 -0.43,-5.63 L0,-4.99 L0.43,-5.63 Q1.81,-5.92 2.72,-4.93 C3.81,-3.19 1.99,-0.87 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.57" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.88" cy="1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.32" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.72" cy="-2.21" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.88" cy="-1.36" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(7.5 41) rotate(-12)">
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.58,-0.69 -3.02,-2.53 -2.16,-3.91 Q-1.44,-4.69 -0.34,-4.46 L0,-3.96 L0.34,-4.46 Q1.44,-4.69 2.16,-3.91 C3.02,-2.53 1.58,-0.69 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.24" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.49" cy="1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.84" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.57" cy="-1.75" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.49" cy="-1.08" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(164.24 164.24) rotate(40)">
+      <path d="M0,0 C-3.44,-1.5 -6.56,-5.5 -4.69,-8.5 Q-3.12,-10.2 -0.75,-9.7 L0,-8.6 L0.75,-9.7 Q3.12,-10.2 4.69,-8.5 C6.56,-5.5 3.44,-1.5 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.44,-1.5 -6.56,-5.5 -4.69,-8.5 Q-3.12,-10.2 -0.75,-9.7 L0,-8.6 L0.75,-9.7 Q3.12,-10.2 4.69,-8.5 C6.56,-5.5 3.44,-1.5 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.44,-1.5 -6.56,-5.5 -4.69,-8.5 Q-3.12,-10.2 -0.75,-9.7 L0,-8.6 L0.75,-9.7 Q3.12,-10.2 4.69,-8.5 C6.56,-5.5 3.44,-1.5 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.44,-1.5 -6.56,-5.5 -4.69,-8.5 Q-3.12,-10.2 -0.75,-9.7 L0,-8.6 L0.75,-9.7 Q3.12,-10.2 4.69,-8.5 C6.56,-5.5 3.44,-1.5 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-3.44,-1.5 -6.56,-5.5 -4.69,-8.5 Q-3.12,-10.2 -0.75,-9.7 L0,-8.6 L0.75,-9.7 Q3.12,-10.2 4.69,-8.5 C6.56,-5.5 3.44,-1.5 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="2.7" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="3.24" cy="2.35" r="0.75" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.24" cy="3.8" r="0.75" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-4" cy="0" r="0.75" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-1.24" cy="-3.8" r="0.75" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="3.24" cy="-2.35" r="0.75" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(138 169) rotate(14)">
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-1.72,-0.75 -3.28,-2.75 -2.34,-4.25 Q-1.56,-5.1 -0.38,-4.85 L0,-4.3 L0.38,-4.85 Q1.56,-5.1 2.34,-4.25 C3.28,-2.75 1.72,-0.75 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.35" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="1.62" cy="1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2" cy="0" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.62" cy="-1.9" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="1.62" cy="-1.18" r="0.5" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <g transform="translate(164.95 11.05) rotate(-20)">
+      <path d="M0,0 C-2.41,-1.05 -4.59,-3.85 -3.28,-5.95 Q-2.19,-7.14 -0.53,-6.79 L0,-6.02 L0.53,-6.79 Q2.19,-7.14 3.28,-5.95 C4.59,-3.85 2.41,-1.05 0,0 Z" transform="rotate(0)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.41,-1.05 -4.59,-3.85 -3.28,-5.95 Q-2.19,-7.14 -0.53,-6.79 L0,-6.02 L0.53,-6.79 Q2.19,-7.14 3.28,-5.95 C4.59,-3.85 2.41,-1.05 0,0 Z" transform="rotate(72)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.41,-1.05 -4.59,-3.85 -3.28,-5.95 Q-2.19,-7.14 -0.53,-6.79 L0,-6.02 L0.53,-6.79 Q2.19,-7.14 3.28,-5.95 C4.59,-3.85 2.41,-1.05 0,0 Z" transform="rotate(144)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.41,-1.05 -4.59,-3.85 -3.28,-5.95 Q-2.19,-7.14 -0.53,-6.79 L0,-6.02 L0.53,-6.79 Q2.19,-7.14 3.28,-5.95 C4.59,-3.85 2.41,-1.05 0,0 Z" transform="rotate(216)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <path d="M0,0 C-2.41,-1.05 -4.59,-3.85 -3.28,-5.95 Q-2.19,-7.14 -0.53,-6.79 L0,-6.02 L0.53,-6.79 Q2.19,-7.14 3.28,-5.95 C4.59,-3.85 2.41,-1.05 0,0 Z" transform="rotate(288)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".5" stroke-opacity=".6"/>
+      <circle r="1.89" fill="{{colors.primary_container.default.hex}}"/>
+      <circle cx="2.27" cy="1.65" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.87" cy="2.66" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-2.8" cy="0" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="-0.87" cy="-2.66" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+      <circle cx="2.27" cy="-1.65" r="0.53" fill="{{colors.tertiary.default.hex}}"/>
+    </g>
+    <path d="M0,0 C-1.82,-0.9 -3.47,-3.3 -2.48,-5.1 Q-1.65,-6.12 -0.4,-5.82 L0,-5.16 L0.4,-5.82 Q1.65,-6.12 2.48,-5.1 C3.47,-3.3 1.82,-0.9 0,0 Z" transform="translate(143 7.5) rotate(70) translate(0 3)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.97,-0.97 -3.75,-3.58 -2.68,-5.52 Q-1.79,-6.63 -0.43,-6.3 L0,-5.59 L0.43,-6.3 Q1.79,-6.63 2.68,-5.52 C3.75,-3.58 1.97,-0.97 0,0 Z" transform="translate(11.05 164.95) rotate(35) translate(0 3.25)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+    <path d="M0,0 C-1.66,-0.82 -3.18,-3.03 -2.27,-4.67 Q-1.51,-5.61 -0.36,-5.33 L0,-4.73 L0.36,-5.33 Q1.51,-5.61 2.27,-4.67 C3.18,-3.03 1.66,-0.82 0,0 Z" transform="translate(23 169.5) rotate(-100) translate(0 2.75)" fill="url(#petal-r35)" stroke="{{colors.primary_container.default.hex}}" stroke-width=".4" stroke-opacity=".5"/>
+  </g>
+</svg>

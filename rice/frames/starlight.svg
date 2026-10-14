@@ -1,0 +1,2040 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="272" viewBox="0 0 272 272"
+     data-border-size="14" data-slice="64" data-corner="64" data-edges="repeat">
+  <!-- borders-plus-plus-svg frame "starlight", made by generate.py. A dotted constellation line with four-pointed stars glinting in the corners and along the edges.
+       One frame per window rounding below (general.border_size = 2): the plugin draws the one
+       closest to each window's rounding, so they overlap if you open this file directly. -->
+  <g id="rounding-0">
+    <defs>
+      <clipPath id="frame-r0"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M14,14 H258 A0,0 0 0 1 258,14 V258 A0,0 0 0 1 258,258 H14 A0,0 0 0 1 14,258 V14 A0,0 0 0 1 14,14 Z"/></clipPath>
+      <filter id="glow-r0" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M14,7 H258 A7,7 0 0 1 265,14 V258 A7,7 0 0 1 258,265 H14 A7,7 0 0 1 7,258 V14 A7,7 0 0 1 14,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7" cy="19" r=".85"/>
+      <circle cx="19" cy="7" r=".85"/>
+      <circle cx="7.28" cy="12.03" r=".85"/>
+      <circle cx="12.03" cy="7.28" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="253" cy="7" r=".85"/>
+      <circle cx="265" cy="19" r=".85"/>
+      <circle cx="259.97" cy="7.28" r=".85"/>
+      <circle cx="264.72" cy="12.03" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="265" cy="253" r=".85"/>
+      <circle cx="253" cy="265" r=".85"/>
+      <circle cx="264.72" cy="259.97" r=".85"/>
+      <circle cx="259.97" cy="264.72" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="19" cy="265" r=".85"/>
+      <circle cx="7" cy="253" r=".85"/>
+      <circle cx="12.03" cy="264.72" r=".85"/>
+      <circle cx="7.28" cy="259.97" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r0)">
+      <path d="M0,-6.48 Q1.04,-1.04 6.48,0 Q1.04,1.04 0,6.48 Q-1.04,1.04 -6.48,0 Q-1.04,-1.04 0,-6.48 Z" transform="translate(6.63 6.63) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-6.48 Q1.04,-1.04 6.48,0 Q1.04,1.04 0,6.48 Q-1.04,1.04 -6.48,0 Q-1.04,-1.04 0,-6.48 Z" transform="translate(6.63 6.63) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-4.51 Q0.72,-0.72 4.51,0 Q0.72,0.72 0,4.51 Q-0.72,0.72 -4.51,0 Q-0.72,-0.72 0,-4.51 Z" transform="translate(265.77 265.77) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-4.51 Q0.72,-0.72 4.51,0 Q0.72,0.72 0,4.51 Q-0.72,0.72 -4.51,0 Q-0.72,-0.72 0,-4.51 Z" transform="translate(265.77 265.77) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-2.82 Q0.45,-0.45 2.82,0 Q0.45,0.45 0,2.82 Q-0.45,0.45 -2.82,0 Q-0.45,-0.45 0,-2.82 Z" transform="translate(266.17 5.83) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-2.82 Q0.45,-0.45 2.82,0 Q0.45,0.45 0,2.82 Q-0.45,0.45 -2.82,0 Q-0.45,-0.45 0,-2.82 Z" transform="translate(266.17 5.83) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.37 Q0.38,-0.38 2.37,0 Q0.38,0.38 0,2.37 Q-0.38,0.38 -2.37,0 Q-0.38,-0.38 0,-2.37 Z" transform="translate(5.83 266.17) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-2.37 Q0.38,-0.38 2.37,0 Q0.38,0.38 0,2.37 Q-0.38,0.38 -2.37,0 Q-0.38,-0.38 0,-2.37 Z" transform="translate(5.83 266.17) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r0)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-1">
+    <defs>
+      <clipPath id="frame-r1"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M17,14 H255 A3,3 0 0 1 258,17 V255 A3,3 0 0 1 255,258 H17 A3,3 0 0 1 14,255 V17 A3,3 0 0 1 17,14 Z"/></clipPath>
+      <filter id="glow-r1" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M17,7 H255 A10,10 0 0 1 265,17 V255 A10,10 0 0 1 255,265 H17 A10,10 0 0 1 7,255 V17 A10,10 0 0 1 17,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7" cy="19" r=".85"/>
+      <circle cx="19" cy="7" r=".85"/>
+      <circle cx="8.03" cy="12.59" r=".85"/>
+      <circle cx="12.59" cy="8.03" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="253" cy="7" r=".85"/>
+      <circle cx="265" cy="19" r=".85"/>
+      <circle cx="259.41" cy="8.03" r=".85"/>
+      <circle cx="263.97" cy="12.59" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="265" cy="253" r=".85"/>
+      <circle cx="253" cy="265" r=".85"/>
+      <circle cx="263.97" cy="259.41" r=".85"/>
+      <circle cx="259.41" cy="263.97" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="19" cy="265" r=".85"/>
+      <circle cx="7" cy="253" r=".85"/>
+      <circle cx="12.59" cy="263.97" r=".85"/>
+      <circle cx="8.03" cy="259.41" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r1)">
+      <path d="M0,-6.89 Q1.1,-1.1 6.89,0 Q1.1,1.1 0,6.89 Q-1.1,1.1 -6.89,0 Q-1.1,-1.1 0,-6.89 Z" transform="translate(7.04 7.04) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-6.89 Q1.1,-1.1 6.89,0 Q1.1,1.1 0,6.89 Q-1.1,1.1 -6.89,0 Q-1.1,-1.1 0,-6.89 Z" transform="translate(7.04 7.04) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-4.79 Q0.77,-0.77 4.79,0 Q0.77,0.77 0,4.79 Q-0.77,0.77 -4.79,0 Q-0.77,-0.77 0,-4.79 Z" transform="translate(265.38 265.38) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-4.79 Q0.77,-0.77 4.79,0 Q0.77,0.77 0,4.79 Q-0.77,0.77 -4.79,0 Q-0.77,-0.77 0,-4.79 Z" transform="translate(265.38 265.38) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(265.8 6.2) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(265.8 6.2) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.52 Q0.4,-0.4 2.52,0 Q0.4,0.4 0,2.52 Q-0.4,0.4 -2.52,0 Q-0.4,-0.4 0,-2.52 Z" transform="translate(6.2 265.8) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-2.52 Q0.4,-0.4 2.52,0 Q0.4,0.4 0,2.52 Q-0.4,0.4 -2.52,0 Q-0.4,-0.4 0,-2.52 Z" transform="translate(6.2 265.8) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r1)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-3">
+    <defs>
+      <clipPath id="frame-r3"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M19,14 H253 A5,5 0 0 1 258,19 V253 A5,5 0 0 1 253,258 H19 A5,5 0 0 1 14,253 V19 A5,5 0 0 1 19,14 Z"/></clipPath>
+      <filter id="glow-r3" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M19,7 H253 A12,12 0 0 1 265,19 V253 A12,12 0 0 1 253,265 H19 A12,12 0 0 1 7,253 V19 A12,12 0 0 1 19,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7" cy="18.83" r=".85"/>
+      <circle cx="8.64" cy="12.95" r=".85"/>
+      <circle cx="12.95" cy="8.64" r=".85"/>
+      <circle cx="18.83" cy="7" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="253.17" cy="7" r=".85"/>
+      <circle cx="259.05" cy="8.64" r=".85"/>
+      <circle cx="263.36" cy="12.95" r=".85"/>
+      <circle cx="265" cy="18.83" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="265" cy="253.17" r=".85"/>
+      <circle cx="263.36" cy="259.05" r=".85"/>
+      <circle cx="259.05" cy="263.36" r=".85"/>
+      <circle cx="253.17" cy="265" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="18.83" cy="265" r=".85"/>
+      <circle cx="12.95" cy="263.36" r=".85"/>
+      <circle cx="8.64" cy="259.05" r=".85"/>
+      <circle cx="7" cy="253.17" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r3)">
+      <path d="M0,-7.16 Q1.15,-1.15 7.16,0 Q1.15,1.15 0,7.16 Q-1.15,1.15 -7.16,0 Q-1.15,-1.15 0,-7.16 Z" transform="translate(7.32 7.32) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-7.16 Q1.15,-1.15 7.16,0 Q1.15,1.15 0,7.16 Q-1.15,1.15 -7.16,0 Q-1.15,-1.15 0,-7.16 Z" transform="translate(7.32 7.32) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-4.98 Q0.8,-0.8 4.98,0 Q0.8,0.8 0,4.98 Q-0.8,0.8 -4.98,0 Q-0.8,-0.8 0,-4.98 Z" transform="translate(265.12 265.12) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-4.98 Q0.8,-0.8 4.98,0 Q0.8,0.8 0,4.98 Q-0.8,0.8 -4.98,0 Q-0.8,-0.8 0,-4.98 Z" transform="translate(265.12 265.12) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.11 Q0.5,-0.5 3.11,0 Q0.5,0.5 0,3.11 Q-0.5,0.5 -3.11,0 Q-0.5,-0.5 0,-3.11 Z" transform="translate(265.56 6.44) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3.11 Q0.5,-0.5 3.11,0 Q0.5,0.5 0,3.11 Q-0.5,0.5 -3.11,0 Q-0.5,-0.5 0,-3.11 Z" transform="translate(265.56 6.44) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.62 Q0.42,-0.42 2.62,0 Q0.42,0.42 0,2.62 Q-0.42,0.42 -2.62,0 Q-0.42,-0.42 0,-2.62 Z" transform="translate(6.44 265.56) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-2.62 Q0.42,-0.42 2.62,0 Q0.42,0.42 0,2.62 Q-0.42,0.42 -2.62,0 Q-0.42,-0.42 0,-2.62 Z" transform="translate(6.44 265.56) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r3)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-4">
+    <defs>
+      <clipPath id="frame-r4"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M20,14 H252 A6,6 0 0 1 258,20 V252 A6,6 0 0 1 252,258 H20 A6,6 0 0 1 14,252 V20 A6,6 0 0 1 20,14 Z"/></clipPath>
+      <filter id="glow-r4" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M20,7 H252 A13,13 0 0 1 265,20 V252 A13,13 0 0 1 252,265 H20 A13,13 0 0 1 7,252 V20 A13,13 0 0 1 20,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7.05" cy="18.92" r=".85"/>
+      <circle cx="8.93" cy="13.19" r=".85"/>
+      <circle cx="13.19" cy="8.93" r=".85"/>
+      <circle cx="18.92" cy="7.05" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="253.08" cy="7.05" r=".85"/>
+      <circle cx="258.81" cy="8.93" r=".85"/>
+      <circle cx="263.07" cy="13.19" r=".85"/>
+      <circle cx="264.95" cy="18.92" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="264.95" cy="253.08" r=".85"/>
+      <circle cx="263.07" cy="258.81" r=".85"/>
+      <circle cx="258.81" cy="263.07" r=".85"/>
+      <circle cx="253.08" cy="264.95" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="18.92" cy="264.95" r=".85"/>
+      <circle cx="13.19" cy="263.07" r=".85"/>
+      <circle cx="8.93" cy="258.81" r=".85"/>
+      <circle cx="7.05" cy="253.08" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r4)">
+      <path d="M0,-7.3 Q1.17,-1.17 7.3,0 Q1.17,1.17 0,7.3 Q-1.17,1.17 -7.3,0 Q-1.17,-1.17 0,-7.3 Z" transform="translate(7.46 7.46) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-7.3 Q1.17,-1.17 7.3,0 Q1.17,1.17 0,7.3 Q-1.17,1.17 -7.3,0 Q-1.17,-1.17 0,-7.3 Z" transform="translate(7.46 7.46) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-5.08 Q0.81,-0.81 5.08,0 Q0.81,0.81 0,5.08 Q-0.81,0.81 -5.08,0 Q-0.81,-0.81 0,-5.08 Z" transform="translate(264.99 264.99) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-5.08 Q0.81,-0.81 5.08,0 Q0.81,0.81 0,5.08 Q-0.81,0.81 -5.08,0 Q-0.81,-0.81 0,-5.08 Z" transform="translate(264.99 264.99) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.17 Q0.51,-0.51 3.17,0 Q0.51,0.51 0,3.17 Q-0.51,0.51 -3.17,0 Q-0.51,-0.51 0,-3.17 Z" transform="translate(265.44 6.56) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3.17 Q0.51,-0.51 3.17,0 Q0.51,0.51 0,3.17 Q-0.51,0.51 -3.17,0 Q-0.51,-0.51 0,-3.17 Z" transform="translate(265.44 6.56) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.66 Q0.43,-0.43 2.66,0 Q0.43,0.43 0,2.66 Q-0.43,0.43 -2.66,0 Q-0.43,-0.43 0,-2.66 Z" transform="translate(6.56 265.44) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-2.66 Q0.43,-0.43 2.66,0 Q0.43,0.43 0,2.66 Q-0.43,0.43 -2.66,0 Q-0.43,-0.43 0,-2.66 Z" transform="translate(6.56 265.44) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r4)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-6">
+    <defs>
+      <clipPath id="frame-r6"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M22,14 H250 A8,8 0 0 1 258,22 V250 A8,8 0 0 1 250,258 H22 A8,8 0 0 1 14,250 V22 A8,8 0 0 1 22,14 Z"/></clipPath>
+      <filter id="glow-r6" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M22,7 H250 A15,15 0 0 1 265,22 V250 A15,15 0 0 1 250,265 H22 A15,15 0 0 1 7,250 V22 A15,15 0 0 1 22,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7.28" cy="19.11" r=".85"/>
+      <circle cx="9.52" cy="13.68" r=".85"/>
+      <circle cx="13.68" cy="9.52" r=".85"/>
+      <circle cx="19.11" cy="7.28" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="252.89" cy="7.28" r=".85"/>
+      <circle cx="258.32" cy="9.52" r=".85"/>
+      <circle cx="262.48" cy="13.68" r=".85"/>
+      <circle cx="264.72" cy="19.11" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="264.72" cy="252.89" r=".85"/>
+      <circle cx="262.48" cy="258.32" r=".85"/>
+      <circle cx="258.32" cy="262.48" r=".85"/>
+      <circle cx="252.89" cy="264.72" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="19.11" cy="264.72" r=".85"/>
+      <circle cx="13.68" cy="262.48" r=".85"/>
+      <circle cx="9.52" cy="258.32" r=".85"/>
+      <circle cx="7.28" cy="252.89" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r6)">
+      <path d="M0,-7.57 Q1.21,-1.21 7.57,0 Q1.21,1.21 0,7.57 Q-1.21,1.21 -7.57,0 Q-1.21,-1.21 0,-7.57 Z" transform="translate(7.74 7.74) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-7.57 Q1.21,-1.21 7.57,0 Q1.21,1.21 0,7.57 Q-1.21,1.21 -7.57,0 Q-1.21,-1.21 0,-7.57 Z" transform="translate(7.74 7.74) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-5.26 Q0.84,-0.84 5.26,0 Q0.84,0.84 0,5.26 Q-0.84,0.84 -5.26,0 Q-0.84,-0.84 0,-5.26 Z" transform="translate(264.73 264.73) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-5.26 Q0.84,-0.84 5.26,0 Q0.84,0.84 0,5.26 Q-0.84,0.84 -5.26,0 Q-0.84,-0.84 0,-5.26 Z" transform="translate(264.73 264.73) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.29 Q0.53,-0.53 3.29,0 Q0.53,0.53 0,3.29 Q-0.53,0.53 -3.29,0 Q-0.53,-0.53 0,-3.29 Z" transform="translate(265.2 6.8) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3.29 Q0.53,-0.53 3.29,0 Q0.53,0.53 0,3.29 Q-0.53,0.53 -3.29,0 Q-0.53,-0.53 0,-3.29 Z" transform="translate(265.2 6.8) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.76 Q0.44,-0.44 2.76,0 Q0.44,0.44 0,2.76 Q-0.44,0.44 -2.76,0 Q-0.44,-0.44 0,-2.76 Z" transform="translate(6.8 265.2) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-2.76 Q0.44,-0.44 2.76,0 Q0.44,0.44 0,2.76 Q-0.44,0.44 -2.76,0 Q-0.44,-0.44 0,-2.76 Z" transform="translate(6.8 265.2) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r6)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-8">
+    <defs>
+      <clipPath id="frame-r8"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M24,14 H248 A10,10 0 0 1 258,24 V248 A10,10 0 0 1 248,258 H24 A10,10 0 0 1 14,248 V24 A10,10 0 0 1 24,14 Z"/></clipPath>
+      <filter id="glow-r8" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M24,7 H248 A17,17 0 0 1 265,24 V248 A17,17 0 0 1 248,265 H24 A17,17 0 0 1 7,248 V24 A17,17 0 0 1 24,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7" cy="25" r=".85"/>
+      <circle cx="25" cy="7" r=".85"/>
+      <circle cx="7.66" cy="19.32" r=".85"/>
+      <circle cx="10.13" cy="14.17" r=".85"/>
+      <circle cx="14.17" cy="10.13" r=".85"/>
+      <circle cx="19.32" cy="7.66" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247" cy="7" r=".85"/>
+      <circle cx="265" cy="25" r=".85"/>
+      <circle cx="252.68" cy="7.66" r=".85"/>
+      <circle cx="257.83" cy="10.13" r=".85"/>
+      <circle cx="261.87" cy="14.17" r=".85"/>
+      <circle cx="264.34" cy="19.32" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="265" cy="247" r=".85"/>
+      <circle cx="247" cy="265" r=".85"/>
+      <circle cx="264.34" cy="252.68" r=".85"/>
+      <circle cx="261.87" cy="257.83" r=".85"/>
+      <circle cx="257.83" cy="261.87" r=".85"/>
+      <circle cx="252.68" cy="264.34" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25" cy="265" r=".85"/>
+      <circle cx="7" cy="247" r=".85"/>
+      <circle cx="19.32" cy="264.34" r=".85"/>
+      <circle cx="14.17" cy="261.87" r=".85"/>
+      <circle cx="10.13" cy="257.83" r=".85"/>
+      <circle cx="7.66" cy="252.68" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r8)">
+      <path d="M0,-7.84 Q1.25,-1.25 7.84,0 Q1.25,1.25 0,7.84 Q-1.25,1.25 -7.84,0 Q-1.25,-1.25 0,-7.84 Z" transform="translate(8.01 8.01) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-7.84 Q1.25,-1.25 7.84,0 Q1.25,1.25 0,7.84 Q-1.25,1.25 -7.84,0 Q-1.25,-1.25 0,-7.84 Z" transform="translate(8.01 8.01) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-5.45 Q0.87,-0.87 5.45,0 Q0.87,0.87 0,5.45 Q-0.87,0.87 -5.45,0 Q-0.87,-0.87 0,-5.45 Z" transform="translate(264.47 264.47) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-5.45 Q0.87,-0.87 5.45,0 Q0.87,0.87 0,5.45 Q-0.87,0.87 -5.45,0 Q-0.87,-0.87 0,-5.45 Z" transform="translate(264.47 264.47) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.41 Q0.55,-0.55 3.41,0 Q0.55,0.55 0,3.41 Q-0.55,0.55 -3.41,0 Q-0.55,-0.55 0,-3.41 Z" transform="translate(264.95 7.05) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3.41 Q0.55,-0.55 3.41,0 Q0.55,0.55 0,3.41 Q-0.55,0.55 -3.41,0 Q-0.55,-0.55 0,-3.41 Z" transform="translate(264.95 7.05) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.86 Q0.46,-0.46 2.86,0 Q0.46,0.46 0,2.86 Q-0.46,0.46 -2.86,0 Q-0.46,-0.46 0,-2.86 Z" transform="translate(7.05 264.95) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-2.86 Q0.46,-0.46 2.86,0 Q0.46,0.46 0,2.86 Q-0.46,0.46 -2.86,0 Q-0.46,-0.46 0,-2.86 Z" transform="translate(7.05 264.95) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r8)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-10">
+    <defs>
+      <clipPath id="frame-r10"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M26,14 H246 A12,12 0 0 1 258,26 V246 A12,12 0 0 1 246,258 H26 A12,12 0 0 1 14,246 V26 A12,12 0 0 1 26,14 Z"/></clipPath>
+      <filter id="glow-r10" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M26,7 H246 A19,19 0 0 1 265,26 V246 A19,19 0 0 1 246,265 H26 A19,19 0 0 1 7,246 V26 A19,19 0 0 1 26,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7.01" cy="25.31" r=".85"/>
+      <circle cx="8.06" cy="19.74" r=".85"/>
+      <circle cx="10.71" cy="14.72" r=".85"/>
+      <circle cx="14.72" cy="10.71" r=".85"/>
+      <circle cx="19.74" cy="8.06" r=".85"/>
+      <circle cx="25.31" cy="7.01" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="246.69" cy="7.01" r=".85"/>
+      <circle cx="252.26" cy="8.06" r=".85"/>
+      <circle cx="257.28" cy="10.71" r=".85"/>
+      <circle cx="261.29" cy="14.72" r=".85"/>
+      <circle cx="263.94" cy="19.74" r=".85"/>
+      <circle cx="264.99" cy="25.31" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="264.99" cy="246.69" r=".85"/>
+      <circle cx="263.94" cy="252.26" r=".85"/>
+      <circle cx="261.29" cy="257.28" r=".85"/>
+      <circle cx="257.28" cy="261.29" r=".85"/>
+      <circle cx="252.26" cy="263.94" r=".85"/>
+      <circle cx="246.69" cy="264.99" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="25.31" cy="264.99" r=".85"/>
+      <circle cx="19.74" cy="263.94" r=".85"/>
+      <circle cx="14.72" cy="261.29" r=".85"/>
+      <circle cx="10.71" cy="257.28" r=".85"/>
+      <circle cx="8.06" cy="252.26" r=".85"/>
+      <circle cx="7.01" cy="246.69" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r10)">
+      <path d="M0,-8.11 Q1.3,-1.3 8.11,0 Q1.3,1.3 0,8.11 Q-1.3,1.3 -8.11,0 Q-1.3,-1.3 0,-8.11 Z" transform="translate(8.29 8.29) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-8.11 Q1.3,-1.3 8.11,0 Q1.3,1.3 0,8.11 Q-1.3,1.3 -8.11,0 Q-1.3,-1.3 0,-8.11 Z" transform="translate(8.29 8.29) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-5.64 Q0.9,-0.9 5.64,0 Q0.9,0.9 0,5.64 Q-0.9,0.9 -5.64,0 Q-0.9,-0.9 0,-5.64 Z" transform="translate(264.21 264.21) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-5.64 Q0.9,-0.9 5.64,0 Q0.9,0.9 0,5.64 Q-0.9,0.9 -5.64,0 Q-0.9,-0.9 0,-5.64 Z" transform="translate(264.21 264.21) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.53 Q0.56,-0.56 3.53,0 Q0.56,0.56 0,3.53 Q-0.56,0.56 -3.53,0 Q-0.56,-0.56 0,-3.53 Z" transform="translate(264.71 7.29) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3.53 Q0.56,-0.56 3.53,0 Q0.56,0.56 0,3.53 Q-0.56,0.56 -3.53,0 Q-0.56,-0.56 0,-3.53 Z" transform="translate(264.71 7.29) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.96 Q0.47,-0.47 2.96,0 Q0.47,0.47 0,2.96 Q-0.47,0.47 -2.96,0 Q-0.47,-0.47 0,-2.96 Z" transform="translate(7.29 264.71) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-2.96 Q0.47,-0.47 2.96,0 Q0.47,0.47 0,2.96 Q-0.47,0.47 -2.96,0 Q-0.47,-0.47 0,-2.96 Z" transform="translate(7.29 264.71) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r10)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-14">
+    <defs>
+      <clipPath id="frame-r14"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M30,14 H242 A16,16 0 0 1 258,30 V242 A16,16 0 0 1 242,258 H30 A16,16 0 0 1 14,242 V30 A16,16 0 0 1 30,14 Z"/></clipPath>
+      <filter id="glow-r14" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M30,7 H242 A23,23 0 0 1 265,30 V242 A23,23 0 0 1 242,265 H30 A23,23 0 0 1 7,242 V30 A23,23 0 0 1 30,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7" cy="31" r=".85"/>
+      <circle cx="31" cy="7" r=".85"/>
+      <circle cx="7.62" cy="24.69" r=".85"/>
+      <circle cx="9.92" cy="18.79" r=".85"/>
+      <circle cx="13.74" cy="13.74" r=".85"/>
+      <circle cx="18.79" cy="9.92" r=".85"/>
+      <circle cx="24.69" cy="7.62" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241" cy="7" r=".85"/>
+      <circle cx="265" cy="31" r=".85"/>
+      <circle cx="247.31" cy="7.62" r=".85"/>
+      <circle cx="253.21" cy="9.92" r=".85"/>
+      <circle cx="258.26" cy="13.74" r=".85"/>
+      <circle cx="262.08" cy="18.79" r=".85"/>
+      <circle cx="264.38" cy="24.69" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="265" cy="241" r=".85"/>
+      <circle cx="241" cy="265" r=".85"/>
+      <circle cx="264.38" cy="247.31" r=".85"/>
+      <circle cx="262.08" cy="253.21" r=".85"/>
+      <circle cx="258.26" cy="258.26" r=".85"/>
+      <circle cx="253.21" cy="262.08" r=".85"/>
+      <circle cx="247.31" cy="264.38" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="31" cy="265" r=".85"/>
+      <circle cx="7" cy="241" r=".85"/>
+      <circle cx="24.69" cy="264.38" r=".85"/>
+      <circle cx="18.79" cy="262.08" r=".85"/>
+      <circle cx="13.74" cy="258.26" r=".85"/>
+      <circle cx="9.92" cy="253.21" r=".85"/>
+      <circle cx="7.62" cy="247.31" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r14)">
+      <path d="M0,-8.65 Q1.38,-1.38 8.65,0 Q1.38,1.38 0,8.65 Q-1.38,1.38 -8.65,0 Q-1.38,-1.38 0,-8.65 Z" transform="translate(8.84 8.84) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-8.65 Q1.38,-1.38 8.65,0 Q1.38,1.38 0,8.65 Q-1.38,1.38 -8.65,0 Q-1.38,-1.38 0,-8.65 Z" transform="translate(8.84 8.84) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-6.02 Q0.96,-0.96 6.02,0 Q0.96,0.96 0,6.02 Q-0.96,0.96 -6.02,0 Q-0.96,-0.96 0,-6.02 Z" transform="translate(263.69 263.69) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-6.02 Q0.96,-0.96 6.02,0 Q0.96,0.96 0,6.02 Q-0.96,0.96 -6.02,0 Q-0.96,-0.96 0,-6.02 Z" transform="translate(263.69 263.69) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-3.76 Q0.6,-0.6 3.76,0 Q0.6,0.6 0,3.76 Q-0.6,0.6 -3.76,0 Q-0.6,-0.6 0,-3.76 Z" transform="translate(264.22 7.78) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.76 Q0.6,-0.6 3.76,0 Q0.6,0.6 0,3.76 Q-0.6,0.6 -3.76,0 Q-0.6,-0.6 0,-3.76 Z" transform="translate(264.22 7.78) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.16 Q0.51,-0.51 3.16,0 Q0.51,0.51 0,3.16 Q-0.51,0.51 -3.16,0 Q-0.51,-0.51 0,-3.16 Z" transform="translate(7.78 264.22) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.16 Q0.51,-0.51 3.16,0 Q0.51,0.51 0,3.16 Q-0.51,0.51 -3.16,0 Q-0.51,-0.51 0,-3.16 Z" transform="translate(7.78 264.22) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r14)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-18">
+    <defs>
+      <clipPath id="frame-r18"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M34,14 H238 A20,20 0 0 1 258,34 V238 A20,20 0 0 1 238,258 H34 A20,20 0 0 1 14,238 V34 A20,20 0 0 1 34,14 Z"/></clipPath>
+      <filter id="glow-r18" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M34,7 H238 A27,27 0 0 1 265,34 V238 A27,27 0 0 1 238,265 H34 A27,27 0 0 1 7,238 V34 A27,27 0 0 1 34,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7" cy="49" r=".85"/>
+      <circle cx="49" cy="7" r=".85"/>
+      <circle cx="7" cy="43" r=".85"/>
+      <circle cx="43" cy="7" r=".85"/>
+      <circle cx="7" cy="37" r=".85"/>
+      <circle cx="37" cy="7" r=".85"/>
+      <circle cx="7.17" cy="30.96" r=".85"/>
+      <circle cx="8.52" cy="25.07" r=".85"/>
+      <circle cx="11.14" cy="19.63" r=".85"/>
+      <circle cx="14.91" cy="14.91" r=".85"/>
+      <circle cx="19.63" cy="11.14" r=".85"/>
+      <circle cx="25.07" cy="8.52" r=".85"/>
+      <circle cx="30.96" cy="7.17" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="223" cy="7" r=".85"/>
+      <circle cx="265" cy="49" r=".85"/>
+      <circle cx="229" cy="7" r=".85"/>
+      <circle cx="265" cy="43" r=".85"/>
+      <circle cx="235" cy="7" r=".85"/>
+      <circle cx="265" cy="37" r=".85"/>
+      <circle cx="241.04" cy="7.17" r=".85"/>
+      <circle cx="246.93" cy="8.52" r=".85"/>
+      <circle cx="252.37" cy="11.14" r=".85"/>
+      <circle cx="257.09" cy="14.91" r=".85"/>
+      <circle cx="260.86" cy="19.63" r=".85"/>
+      <circle cx="263.48" cy="25.07" r=".85"/>
+      <circle cx="264.83" cy="30.96" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="265" cy="223" r=".85"/>
+      <circle cx="223" cy="265" r=".85"/>
+      <circle cx="265" cy="229" r=".85"/>
+      <circle cx="229" cy="265" r=".85"/>
+      <circle cx="265" cy="235" r=".85"/>
+      <circle cx="235" cy="265" r=".85"/>
+      <circle cx="264.83" cy="241.04" r=".85"/>
+      <circle cx="263.48" cy="246.93" r=".85"/>
+      <circle cx="260.86" cy="252.37" r=".85"/>
+      <circle cx="257.09" cy="257.09" r=".85"/>
+      <circle cx="252.37" cy="260.86" r=".85"/>
+      <circle cx="246.93" cy="263.48" r=".85"/>
+      <circle cx="241.04" cy="264.83" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49" cy="265" r=".85"/>
+      <circle cx="7" cy="223" r=".85"/>
+      <circle cx="43" cy="265" r=".85"/>
+      <circle cx="7" cy="229" r=".85"/>
+      <circle cx="37" cy="265" r=".85"/>
+      <circle cx="7" cy="235" r=".85"/>
+      <circle cx="30.96" cy="264.83" r=".85"/>
+      <circle cx="25.07" cy="263.48" r=".85"/>
+      <circle cx="19.63" cy="260.86" r=".85"/>
+      <circle cx="14.91" cy="257.09" r=".85"/>
+      <circle cx="11.14" cy="252.37" r=".85"/>
+      <circle cx="8.52" cy="246.93" r=".85"/>
+      <circle cx="7.17" cy="241.04" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r18)">
+      <path d="M0,-9.19 Q1.47,-1.47 9.19,0 Q1.47,1.47 0,9.19 Q-1.47,1.47 -9.19,0 Q-1.47,-1.47 0,-9.19 Z" transform="translate(9.4 9.4) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-9.19 Q1.47,-1.47 9.19,0 Q1.47,1.47 0,9.19 Q-1.47,1.47 -9.19,0 Q-1.47,-1.47 0,-9.19 Z" transform="translate(9.4 9.4) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-6.4 Q1.02,-1.02 6.4,0 Q1.02,1.02 0,6.4 Q-1.02,1.02 -6.4,0 Q-1.02,-1.02 0,-6.4 Z" transform="translate(263.17 263.17) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-6.4 Q1.02,-1.02 6.4,0 Q1.02,1.02 0,6.4 Q-1.02,1.02 -6.4,0 Q-1.02,-1.02 0,-6.4 Z" transform="translate(263.17 263.17) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-4 Q0.64,-0.64 4,0 Q0.64,0.64 0,4 Q-0.64,0.64 -4,0 Q-0.64,-0.64 0,-4 Z" transform="translate(263.73 8.27) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-4 Q0.64,-0.64 4,0 Q0.64,0.64 0,4 Q-0.64,0.64 -4,0 Q-0.64,-0.64 0,-4 Z" transform="translate(263.73 8.27) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.36 Q0.54,-0.54 3.36,0 Q0.54,0.54 0,3.36 Q-0.54,0.54 -3.36,0 Q-0.54,-0.54 0,-3.36 Z" transform="translate(8.27 263.73) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3.36 Q0.54,-0.54 3.36,0 Q0.54,0.54 0,3.36 Q-0.54,0.54 -3.36,0 Q-0.54,-0.54 0,-3.36 Z" transform="translate(8.27 263.73) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r18)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+  <g id="rounding-35">
+    <defs>
+      <clipPath id="frame-r35"><path clip-rule="evenodd" d="M0,0 H272 V272 H0 Z M51,14 H221 A37,37 0 0 1 258,51 V221 A37,37 0 0 1 221,258 H51 A37,37 0 0 1 14,221 V51 A37,37 0 0 1 51,14 Z"/></clipPath>
+      <filter id="glow-r35" filterUnits="userSpaceOnUse" x="-40" y="-40" width="352" height="352"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <path d="M51,7 H221 A44,44 0 0 1 265,51 V221 A44,44 0 0 1 221,265 H51 A44,44 0 0 1 7,221 V51 A44,44 0 0 1 51,7 Z" fill="none" stroke="{{colors.primary.default.hex}}" stroke-width=".6" stroke-opacity=".22"/>
+    <g fill="{{colors.on_surface_variant.default.hex}}" fill-opacity=".8">
+      <circle cx="67" cy="7" r=".85"/>
+      <circle cx="73" cy="7" r=".85"/>
+      <circle cx="79" cy="7" r=".85"/>
+      <circle cx="85" cy="7" r=".85"/>
+      <circle cx="91" cy="7" r=".85"/>
+      <circle cx="97" cy="7" r=".85"/>
+      <circle cx="103" cy="7" r=".85"/>
+      <circle cx="109" cy="7" r=".85"/>
+      <circle cx="115" cy="7" r=".85"/>
+      <circle cx="121" cy="7" r=".85"/>
+      <circle cx="127" cy="7" r=".85"/>
+      <circle cx="133" cy="7" r=".85"/>
+      <circle cx="139" cy="7" r=".85"/>
+      <circle cx="145" cy="7" r=".85"/>
+      <circle cx="151" cy="7" r=".85"/>
+      <circle cx="157" cy="7" r=".85"/>
+      <circle cx="163" cy="7" r=".85"/>
+      <circle cx="169" cy="7" r=".85"/>
+      <circle cx="175" cy="7" r=".85"/>
+      <circle cx="181" cy="7" r=".85"/>
+      <circle cx="187" cy="7" r=".85"/>
+      <circle cx="193" cy="7" r=".85"/>
+      <circle cx="199" cy="7" r=".85"/>
+      <circle cx="205" cy="7" r=".85"/>
+      <circle cx="265" cy="67" r=".85"/>
+      <circle cx="265" cy="73" r=".85"/>
+      <circle cx="265" cy="79" r=".85"/>
+      <circle cx="265" cy="85" r=".85"/>
+      <circle cx="265" cy="91" r=".85"/>
+      <circle cx="265" cy="97" r=".85"/>
+      <circle cx="265" cy="103" r=".85"/>
+      <circle cx="265" cy="109" r=".85"/>
+      <circle cx="265" cy="115" r=".85"/>
+      <circle cx="265" cy="121" r=".85"/>
+      <circle cx="265" cy="127" r=".85"/>
+      <circle cx="265" cy="133" r=".85"/>
+      <circle cx="265" cy="139" r=".85"/>
+      <circle cx="265" cy="145" r=".85"/>
+      <circle cx="265" cy="151" r=".85"/>
+      <circle cx="265" cy="157" r=".85"/>
+      <circle cx="265" cy="163" r=".85"/>
+      <circle cx="265" cy="169" r=".85"/>
+      <circle cx="265" cy="175" r=".85"/>
+      <circle cx="265" cy="181" r=".85"/>
+      <circle cx="265" cy="187" r=".85"/>
+      <circle cx="265" cy="193" r=".85"/>
+      <circle cx="265" cy="199" r=".85"/>
+      <circle cx="265" cy="205" r=".85"/>
+      <circle cx="205" cy="265" r=".85"/>
+      <circle cx="199" cy="265" r=".85"/>
+      <circle cx="193" cy="265" r=".85"/>
+      <circle cx="187" cy="265" r=".85"/>
+      <circle cx="181" cy="265" r=".85"/>
+      <circle cx="175" cy="265" r=".85"/>
+      <circle cx="169" cy="265" r=".85"/>
+      <circle cx="163" cy="265" r=".85"/>
+      <circle cx="157" cy="265" r=".85"/>
+      <circle cx="151" cy="265" r=".85"/>
+      <circle cx="145" cy="265" r=".85"/>
+      <circle cx="139" cy="265" r=".85"/>
+      <circle cx="133" cy="265" r=".85"/>
+      <circle cx="127" cy="265" r=".85"/>
+      <circle cx="121" cy="265" r=".85"/>
+      <circle cx="115" cy="265" r=".85"/>
+      <circle cx="109" cy="265" r=".85"/>
+      <circle cx="103" cy="265" r=".85"/>
+      <circle cx="97" cy="265" r=".85"/>
+      <circle cx="91" cy="265" r=".85"/>
+      <circle cx="85" cy="265" r=".85"/>
+      <circle cx="79" cy="265" r=".85"/>
+      <circle cx="73" cy="265" r=".85"/>
+      <circle cx="67" cy="265" r=".85"/>
+      <circle cx="7" cy="205" r=".85"/>
+      <circle cx="7" cy="199" r=".85"/>
+      <circle cx="7" cy="193" r=".85"/>
+      <circle cx="7" cy="187" r=".85"/>
+      <circle cx="7" cy="181" r=".85"/>
+      <circle cx="7" cy="175" r=".85"/>
+      <circle cx="7" cy="169" r=".85"/>
+      <circle cx="7" cy="163" r=".85"/>
+      <circle cx="7" cy="157" r=".85"/>
+      <circle cx="7" cy="151" r=".85"/>
+      <circle cx="7" cy="145" r=".85"/>
+      <circle cx="7" cy="139" r=".85"/>
+      <circle cx="7" cy="133" r=".85"/>
+      <circle cx="7" cy="127" r=".85"/>
+      <circle cx="7" cy="121" r=".85"/>
+      <circle cx="7" cy="115" r=".85"/>
+      <circle cx="7" cy="109" r=".85"/>
+      <circle cx="7" cy="103" r=".85"/>
+      <circle cx="7" cy="97" r=".85"/>
+      <circle cx="7" cy="91" r=".85"/>
+      <circle cx="7" cy="85" r=".85"/>
+      <circle cx="7" cy="79" r=".85"/>
+      <circle cx="7" cy="73" r=".85"/>
+      <circle cx="7" cy="67" r=".85"/>
+      <circle cx="7" cy="61" r=".85"/>
+      <circle cx="61" cy="7" r=".85"/>
+      <circle cx="7" cy="55" r=".85"/>
+      <circle cx="55" cy="7" r=".85"/>
+      <circle cx="7.04" cy="49.07" r=".85"/>
+      <circle cx="7.7" cy="43.18" r=".85"/>
+      <circle cx="9.15" cy="37.43" r=".85"/>
+      <circle cx="11.35" cy="31.93" r=".85"/>
+      <circle cx="14.27" cy="26.77" r=".85"/>
+      <circle cx="17.86" cy="22.05" r=".85"/>
+      <circle cx="22.05" cy="17.86" r=".85"/>
+      <circle cx="26.77" cy="14.27" r=".85"/>
+      <circle cx="31.93" cy="11.35" r=".85"/>
+      <circle cx="37.43" cy="9.15" r=".85"/>
+      <circle cx="43.18" cy="7.7" r=".85"/>
+      <circle cx="49.07" cy="7.04" r=".85"/>
+      <circle cx="211" cy="7" r=".85"/>
+      <circle cx="265" cy="61" r=".85"/>
+      <circle cx="217" cy="7" r=".85"/>
+      <circle cx="265" cy="55" r=".85"/>
+      <circle cx="222.93" cy="7.04" r=".85"/>
+      <circle cx="228.82" cy="7.7" r=".85"/>
+      <circle cx="234.57" cy="9.15" r=".85"/>
+      <circle cx="240.07" cy="11.35" r=".85"/>
+      <circle cx="245.23" cy="14.27" r=".85"/>
+      <circle cx="249.95" cy="17.86" r=".85"/>
+      <circle cx="254.14" cy="22.05" r=".85"/>
+      <circle cx="257.73" cy="26.77" r=".85"/>
+      <circle cx="260.65" cy="31.93" r=".85"/>
+      <circle cx="262.85" cy="37.43" r=".85"/>
+      <circle cx="264.3" cy="43.18" r=".85"/>
+      <circle cx="264.96" cy="49.07" r=".85"/>
+      <circle cx="265" cy="211" r=".85"/>
+      <circle cx="211" cy="265" r=".85"/>
+      <circle cx="265" cy="217" r=".85"/>
+      <circle cx="217" cy="265" r=".85"/>
+      <circle cx="264.96" cy="222.93" r=".85"/>
+      <circle cx="264.3" cy="228.82" r=".85"/>
+      <circle cx="262.85" cy="234.57" r=".85"/>
+      <circle cx="260.65" cy="240.07" r=".85"/>
+      <circle cx="257.73" cy="245.23" r=".85"/>
+      <circle cx="254.14" cy="249.95" r=".85"/>
+      <circle cx="249.95" cy="254.14" r=".85"/>
+      <circle cx="245.23" cy="257.73" r=".85"/>
+      <circle cx="240.07" cy="260.65" r=".85"/>
+      <circle cx="234.57" cy="262.85" r=".85"/>
+      <circle cx="228.82" cy="264.3" r=".85"/>
+      <circle cx="222.93" cy="264.96" r=".85"/>
+      <circle cx="61" cy="265" r=".85"/>
+      <circle cx="7" cy="211" r=".85"/>
+      <circle cx="55" cy="265" r=".85"/>
+      <circle cx="7" cy="217" r=".85"/>
+      <circle cx="49.07" cy="264.96" r=".85"/>
+      <circle cx="43.18" cy="264.3" r=".85"/>
+      <circle cx="37.43" cy="262.85" r=".85"/>
+      <circle cx="31.93" cy="260.65" r=".85"/>
+      <circle cx="26.77" cy="257.73" r=".85"/>
+      <circle cx="22.05" cy="254.14" r=".85"/>
+      <circle cx="17.86" cy="249.95" r=".85"/>
+      <circle cx="14.27" cy="245.23" r=".85"/>
+      <circle cx="11.35" cy="240.07" r=".85"/>
+      <circle cx="9.15" cy="234.57" r=".85"/>
+      <circle cx="7.7" cy="228.82" r=".85"/>
+      <circle cx="7.04" cy="222.93" r=".85"/>
+    </g>
+    <g clip-path="url(#frame-r35)">
+      <path d="M0,-11.5 Q1.84,-1.84 11.5,0 Q1.84,1.84 0,11.5 Q-1.84,1.84 -11.5,0 Q-1.84,-1.84 0,-11.5 Z" transform="translate(11.76 11.76) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-11.5 Q1.84,-1.84 11.5,0 Q1.84,1.84 0,11.5 Q-1.84,1.84 -11.5,0 Q-1.84,-1.84 0,-11.5 Z" transform="translate(11.76 11.76) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-4.6 Q0.74,-0.74 4.6,0 Q0.74,0.74 0,4.6 Q-0.74,0.74 -4.6,0 Q-0.74,-0.74 0,-4.6 Z" transform="translate(37 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 34) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-8 Q1.28,-1.28 8,0 Q1.28,1.28 0,8 Q-1.28,1.28 -8,0 Q-1.28,-1.28 0,-8 Z" transform="translate(260.95 260.95) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-8 Q1.28,-1.28 8,0 Q1.28,1.28 0,8 Q-1.28,1.28 -8,0 Q-1.28,-1.28 0,-8 Z" transform="translate(260.95 260.95) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(238 265) rotate(0)" fill="{{colors.on_surface.default.hex}}"/>
+      <path d="M0,-5 Q0.8,-0.8 5,0 Q0.8,0.8 0,5 Q-0.8,0.8 -5,0 Q-0.8,-0.8 0,-5 Z" transform="translate(261.66 10.34) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-5 Q0.8,-0.8 5,0 Q0.8,0.8 0,5 Q-0.8,0.8 -5,0 Q-0.8,-0.8 0,-5 Z" transform="translate(261.66 10.34) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-4.2 Q0.67,-0.67 4.2,0 Q0.67,0.67 0,4.2 Q-0.67,0.67 -4.2,0 Q-0.67,-0.67 0,-4.2 Z" transform="translate(10.34 261.66) rotate(0)" fill="{{colors.tertiary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-4.2 Q0.67,-0.67 4.2,0 Q0.67,0.67 0,4.2 Q-0.67,0.67 -4.2,0 Q-0.67,-0.67 0,-4.2 Z" transform="translate(10.34 261.66) rotate(0)" fill="{{colors.tertiary_fixed.default.hex}}"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3.6 Q0.58,-0.58 3.6,0 Q0.58,0.58 0,3.6 Q-0.58,0.58 -3.6,0 Q-0.58,-0.58 0,-3.6 Z" transform="translate(104 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-2.6 Q0.42,-0.42 2.6,0 Q0.42,0.42 0,2.6 Q-0.42,0.42 -2.6,0 Q-0.42,-0.42 0,-2.6 Z" transform="translate(165 7) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3.2 Q0.51,-0.51 3.2,0 Q0.51,0.51 0,3.2 Q-0.51,0.51 -3.2,0 Q-0.51,-0.51 0,-3.2 Z" transform="translate(265 141) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-2.8 Q0.45,-0.45 2.8,0 Q0.45,0.45 0,2.8 Q-0.45,0.45 -2.8,0 Q-0.45,-0.45 0,-2.8 Z" transform="translate(186 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3.8 Q0.61,-0.61 3.8,0 Q0.61,0.61 0,3.8 Q-0.61,0.61 -3.8,0 Q-0.61,-0.61 0,-3.8 Z" transform="translate(90 265) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary.default.hex}}" filter="url(#glow-r35)"/>
+      <path d="M0,-3 Q0.48,-0.48 3,0 Q0.48,0.48 0,3 Q-0.48,0.48 -3,0 Q-0.48,-0.48 0,-3 Z" transform="translate(7 147) rotate(0)" fill="{{colors.primary_fixed.default.hex}}"/>
+    </g>
+  </g>
+</svg>

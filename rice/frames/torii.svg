@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="184" viewBox="0 0 184 184"
+     data-border-size="20" data-slice="68" data-corner="68" data-edges="stretch">
+  <!-- borders-plus-plus-svg frame "torii", made by generate.py. The window stands under a torii: an upswept kasagi and the nuki across the top, a pillar each side.
+       One frame per window rounding below (general.border_size = 2): the plugin draws the one
+       closest to each window's rounding, so they overlap if you open this file directly. -->
+  <g id="rounding-0">
+    <defs>
+      <linearGradient id="wood-r0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r0)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r0)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-1">
+    <defs>
+      <linearGradient id="wood-r1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r1)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r1)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-3">
+    <defs>
+      <linearGradient id="wood-r3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r3)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r3)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-4">
+    <defs>
+      <linearGradient id="wood-r4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r4)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r4)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-6">
+    <defs>
+      <linearGradient id="wood-r6" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r6)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r6)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-8">
+    <defs>
+      <linearGradient id="wood-r8" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r8)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r8)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-10">
+    <defs>
+      <linearGradient id="wood-r10" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r10)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r10)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-14">
+    <defs>
+      <linearGradient id="wood-r14" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r14)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r14)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-18">
+    <defs>
+      <linearGradient id="wood-r18" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r18)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r18)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+  <g id="rounding-35">
+    <defs>
+      <linearGradient id="wood-r35" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{{colors.primary_fixed.default.hex}}"/><stop offset=".3" stop-color="{{colors.primary.default.hex}}"/><stop offset="1" stop-color="{{colors.primary.default.hex}}"/></linearGradient>
+    </defs>
+    <rect x="8" y="6" width="6.5" height="176.5" fill="url(#wood-r35)"/>
+    <rect x="6.4" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <rect x="169.5" y="6" width="6.5" height="176.5" fill="url(#wood-r35)"/>
+    <rect x="167.9" y="174" width="9.7" height="8.5" rx="1.2" fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".8"/>
+    <path d="M16.5,182.7 H167.5" stroke="{{colors.outline_variant.default.hex}}" stroke-width="1"/>
+    <rect x="3" y="12.5" width="178" height="3.6" fill="{{colors.primary.default.hex}}"/>
+    <rect x="4.7" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <rect x="177" y="12.5" width="2.3" height="3.6" fill="{{colors.surface_container_lowest.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V4.2 Q162,9.6 136,9.6 H48 Q22,9.6 0,4.2 Z" fill="{{colors.primary.default.hex}}"/>
+    <path d="M0,0 Q20,2.6 44,2.6 H140 Q164,2.6 184,0 V1.8 Q164,5 140,5 H44 Q20,5 0,1.8 Z" fill="{{colors.surface_container_lowest.default.hex}}"/>
+  </g>
+</svg>

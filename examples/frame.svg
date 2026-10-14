@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96"
+     data-border-size="24" data-slice="24" data-corner="24" data-edges="repeat">
+  <!-- 9-slice frame: use with svg_slice = 24. The 24px corners are drawn as-is,
+       the edges between them get stretched or repeated, the middle is never drawn.
+       The data- attributes carry those settings for rice/borders.lua, so it also works dropped into rice/frames. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5c2e7"/>
+      <stop offset="1" stop-color="#89b4fa"/>
+    </linearGradient>
+  </defs>
+  <!-- band -->
+  <rect x="0" y="0" width="96" height="96" rx="0" fill="#1e1e2e"/>
+  <rect x="6" y="6" width="84" height="84" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <rect x="14" y="14" width="68" height="68" fill="none" stroke="#585b70" stroke-width="1"/>
+  <!-- edge beads, one per 24px of edge so "repeat" tiles them cleanly -->
+  <g fill="#cba6f7">
+    <circle cx="36" cy="10" r="2"/><circle cx="60" cy="10" r="2"/>
+    <circle cx="36" cy="86" r="2"/><circle cx="60" cy="86" r="2"/>
+    <circle cx="10" cy="36" r="2"/><circle cx="10" cy="60" r="2"/>
+    <circle cx="86" cy="36" r="2"/><circle cx="86" cy="60" r="2"/>
+  </g>
+  <!-- corner ornaments -->
+  <g fill="url(#g)">
+    <path d="M12 2 L22 12 L12 22 L2 12 Z"/>
+    <path d="M84 2 L94 12 L84 22 L74 12 Z"/>
+    <path d="M12 74 L22 84 L12 94 L2 84 Z"/>
+    <path d="M84 74 L94 84 L84 94 L74 84 Z"/>
+  </g>
+  <g fill="#1e1e2e">
+    <circle cx="12" cy="12" r="3"/><circle cx="84" cy="12" r="3"/>
+    <circle cx="12" cy="84" r="3"/><circle cx="84" cy="84" r="3"/>
+  </g>
+  <!-- middle (never drawn, just here so the file previews nicely) -->
+  <rect x="24" y="24" width="48" height="48" fill="#11111b"/>
+</svg>

@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 176 176"
+     data-border-size="14" data-slice="64" data-corner="64" data-edges="stretch">
+  <!-- borders-plus-plus-svg frame "neon", made by generate.py. Two neon tubes, the outer one broken at the corners like a real sign, glowing into the gap.
+       One frame per window rounding below (general.border_size = 2): the plugin draws the one
+       closest to each window's rounding, so they overlap if you open this file directly. -->
+  <g id="rounding-0">
+    <defs>
+      <clipPath id="frame-r0"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M14,14 H162 A0,0 0 0 1 162,14 V162 A0,0 0 0 1 162,162 H14 A0,0 0 0 1 14,162 V14 A0,0 0 0 1 14,14 Z"/></clipPath>
+      <filter id="fade-blur-r0" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r0" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M14,1.6 H162 A12.4,12.4 0 0 1 174.4,14 V162 A12.4,12.4 0 0 1 162,174.4 H14 A12.4,12.4 0 0 1 1.6,162 V14 A12.4,12.4 0 0 1 14,1.6 Z" fill="#fff" filter="url(#fade-blur-r0)"/></mask>
+      <filter id="haze-r0" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r0" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r0)" mask="url(#fade-r0)" fill="none" stroke-linecap="round">
+      <path d="M14,10 H162 A4,4 0 0 1 166,14 V162 A4,4 0 0 1 162,166 H14 A4,4 0 0 1 10,162 V14 A4,4 0 0 1 14,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r0)"/>
+      <path d="M14,10 H162 A4,4 0 0 1 166,14 V162 A4,4 0 0 1 162,166 H14 A4,4 0 0 1 10,162 V14 A4,4 0 0 1 14,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r0)"/>
+      <path d="M14,10 H162 A4,4 0 0 1 166,14 V162 A4,4 0 0 1 162,166 H14 A4,4 0 0 1 10,162 V14 A4,4 0 0 1 14,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M14,10 H162 A4,4 0 0 1 166,14 V162 A4,4 0 0 1 162,166 H14 A4,4 0 0 1 10,162 V14 A4,4 0 0 1 14,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M10.18,5.41 A9.4,9.4 0 0 1 14,4.6 L162,4.6 A9.4,9.4 0 0 1 165.82,5.41 M170.59,10.18 A9.4,9.4 0 0 1 171.4,14 L171.4,162 A9.4,9.4 0 0 1 170.59,165.82 M165.82,170.59 A9.4,9.4 0 0 1 162,171.4 L14,171.4 A9.4,9.4 0 0 1 10.18,170.59 M5.41,165.82 A9.4,9.4 0 0 1 4.6,162 L4.6,14 A9.4,9.4 0 0 1 5.41,10.18" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r0)"/>
+      <path d="M10.18,5.41 A9.4,9.4 0 0 1 14,4.6 L162,4.6 A9.4,9.4 0 0 1 165.82,5.41 M170.59,10.18 A9.4,9.4 0 0 1 171.4,14 L171.4,162 A9.4,9.4 0 0 1 170.59,165.82 M165.82,170.59 A9.4,9.4 0 0 1 162,171.4 L14,171.4 A9.4,9.4 0 0 1 10.18,170.59 M5.41,165.82 A9.4,9.4 0 0 1 4.6,162 L4.6,14 A9.4,9.4 0 0 1 5.41,10.18" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r0)"/>
+      <path d="M10.18,5.41 A9.4,9.4 0 0 1 14,4.6 L162,4.6 A9.4,9.4 0 0 1 165.82,5.41 M170.59,10.18 A9.4,9.4 0 0 1 171.4,14 L171.4,162 A9.4,9.4 0 0 1 170.59,165.82 M165.82,170.59 A9.4,9.4 0 0 1 162,171.4 L14,171.4 A9.4,9.4 0 0 1 10.18,170.59 M5.41,165.82 A9.4,9.4 0 0 1 4.6,162 L4.6,14 A9.4,9.4 0 0 1 5.41,10.18" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M10.18,5.41 A9.4,9.4 0 0 1 14,4.6 L162,4.6 A9.4,9.4 0 0 1 165.82,5.41 M170.59,10.18 A9.4,9.4 0 0 1 171.4,14 L171.4,162 A9.4,9.4 0 0 1 170.59,165.82 M165.82,170.59 A9.4,9.4 0 0 1 162,171.4 L14,171.4 A9.4,9.4 0 0 1 10.18,170.59 M5.41,165.82 A9.4,9.4 0 0 1 4.6,162 L4.6,14 A9.4,9.4 0 0 1 5.41,10.18" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="5.41" cy="10.18" r="1.4"/>
+      <circle cx="10.18" cy="5.41" r="1.4"/>
+      <circle cx="165.82" cy="5.41" r="1.4"/>
+      <circle cx="170.59" cy="10.18" r="1.4"/>
+      <circle cx="170.59" cy="165.82" r="1.4"/>
+      <circle cx="165.82" cy="170.59" r="1.4"/>
+      <circle cx="10.18" cy="170.59" r="1.4"/>
+      <circle cx="5.41" cy="165.82" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-1">
+    <defs>
+      <clipPath id="frame-r1"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M17,14 H159 A3,3 0 0 1 162,17 V159 A3,3 0 0 1 159,162 H17 A3,3 0 0 1 14,159 V17 A3,3 0 0 1 17,14 Z"/></clipPath>
+      <filter id="fade-blur-r1" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r1" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M17,1.6 H159 A15.4,15.4 0 0 1 174.4,17 V159 A15.4,15.4 0 0 1 159,174.4 H17 A15.4,15.4 0 0 1 1.6,159 V17 A15.4,15.4 0 0 1 17,1.6 Z" fill="#fff" filter="url(#fade-blur-r1)"/></mask>
+      <filter id="haze-r1" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r1" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r1)" mask="url(#fade-r1)" fill="none" stroke-linecap="round">
+      <path d="M17,10 H159 A7,7 0 0 1 166,17 V159 A7,7 0 0 1 159,166 H17 A7,7 0 0 1 10,159 V17 A7,7 0 0 1 17,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r1)"/>
+      <path d="M17,10 H159 A7,7 0 0 1 166,17 V159 A7,7 0 0 1 159,166 H17 A7,7 0 0 1 10,159 V17 A7,7 0 0 1 17,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r1)"/>
+      <path d="M17,10 H159 A7,7 0 0 1 166,17 V159 A7,7 0 0 1 159,166 H17 A7,7 0 0 1 10,159 V17 A7,7 0 0 1 17,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M17,10 H159 A7,7 0 0 1 166,17 V159 A7,7 0 0 1 159,166 H17 A7,7 0 0 1 10,159 V17 A7,7 0 0 1 17,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M11.96,5.67 A12.4,12.4 0 0 1 17,4.6 L159,4.6 A12.4,12.4 0 0 1 164.04,5.67 M170.33,11.96 A12.4,12.4 0 0 1 171.4,17 L171.4,159 A12.4,12.4 0 0 1 170.33,164.04 M164.04,170.33 A12.4,12.4 0 0 1 159,171.4 L17,171.4 A12.4,12.4 0 0 1 11.96,170.33 M5.67,164.04 A12.4,12.4 0 0 1 4.6,159 L4.6,17 A12.4,12.4 0 0 1 5.67,11.96" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r1)"/>
+      <path d="M11.96,5.67 A12.4,12.4 0 0 1 17,4.6 L159,4.6 A12.4,12.4 0 0 1 164.04,5.67 M170.33,11.96 A12.4,12.4 0 0 1 171.4,17 L171.4,159 A12.4,12.4 0 0 1 170.33,164.04 M164.04,170.33 A12.4,12.4 0 0 1 159,171.4 L17,171.4 A12.4,12.4 0 0 1 11.96,170.33 M5.67,164.04 A12.4,12.4 0 0 1 4.6,159 L4.6,17 A12.4,12.4 0 0 1 5.67,11.96" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r1)"/>
+      <path d="M11.96,5.67 A12.4,12.4 0 0 1 17,4.6 L159,4.6 A12.4,12.4 0 0 1 164.04,5.67 M170.33,11.96 A12.4,12.4 0 0 1 171.4,17 L171.4,159 A12.4,12.4 0 0 1 170.33,164.04 M164.04,170.33 A12.4,12.4 0 0 1 159,171.4 L17,171.4 A12.4,12.4 0 0 1 11.96,170.33 M5.67,164.04 A12.4,12.4 0 0 1 4.6,159 L4.6,17 A12.4,12.4 0 0 1 5.67,11.96" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M11.96,5.67 A12.4,12.4 0 0 1 17,4.6 L159,4.6 A12.4,12.4 0 0 1 164.04,5.67 M170.33,11.96 A12.4,12.4 0 0 1 171.4,17 L171.4,159 A12.4,12.4 0 0 1 170.33,164.04 M164.04,170.33 A12.4,12.4 0 0 1 159,171.4 L17,171.4 A12.4,12.4 0 0 1 11.96,170.33 M5.67,164.04 A12.4,12.4 0 0 1 4.6,159 L4.6,17 A12.4,12.4 0 0 1 5.67,11.96" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="5.67" cy="11.96" r="1.4"/>
+      <circle cx="11.96" cy="5.67" r="1.4"/>
+      <circle cx="164.04" cy="5.67" r="1.4"/>
+      <circle cx="170.33" cy="11.96" r="1.4"/>
+      <circle cx="170.33" cy="164.04" r="1.4"/>
+      <circle cx="164.04" cy="170.33" r="1.4"/>
+      <circle cx="11.96" cy="170.33" r="1.4"/>
+      <circle cx="5.67" cy="164.04" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-3">
+    <defs>
+      <clipPath id="frame-r3"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M19,14 H157 A5,5 0 0 1 162,19 V157 A5,5 0 0 1 157,162 H19 A5,5 0 0 1 14,157 V19 A5,5 0 0 1 19,14 Z"/></clipPath>
+      <filter id="fade-blur-r3" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r3" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M19,1.6 H157 A17.4,17.4 0 0 1 174.4,19 V157 A17.4,17.4 0 0 1 157,174.4 H19 A17.4,17.4 0 0 1 1.6,157 V19 A17.4,17.4 0 0 1 19,1.6 Z" fill="#fff" filter="url(#fade-blur-r3)"/></mask>
+      <filter id="haze-r3" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r3" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r3)" mask="url(#fade-r3)" fill="none" stroke-linecap="round">
+      <path d="M19,10 H157 A9,9 0 0 1 166,19 V157 A9,9 0 0 1 157,166 H19 A9,9 0 0 1 10,157 V19 A9,9 0 0 1 19,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r3)"/>
+      <path d="M19,10 H157 A9,9 0 0 1 166,19 V157 A9,9 0 0 1 157,166 H19 A9,9 0 0 1 10,157 V19 A9,9 0 0 1 19,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r3)"/>
+      <path d="M19,10 H157 A9,9 0 0 1 166,19 V157 A9,9 0 0 1 157,166 H19 A9,9 0 0 1 10,157 V19 A9,9 0 0 1 19,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M19,10 H157 A9,9 0 0 1 166,19 V157 A9,9 0 0 1 157,166 H19 A9,9 0 0 1 10,157 V19 A9,9 0 0 1 19,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M13.14,5.84 A14.4,14.4 0 0 1 19,4.6 L157,4.6 A14.4,14.4 0 0 1 162.86,5.84 M170.16,13.14 A14.4,14.4 0 0 1 171.4,19 L171.4,157 A14.4,14.4 0 0 1 170.16,162.86 M162.86,170.16 A14.4,14.4 0 0 1 157,171.4 L19,171.4 A14.4,14.4 0 0 1 13.14,170.16 M5.84,162.86 A14.4,14.4 0 0 1 4.6,157 L4.6,19 A14.4,14.4 0 0 1 5.84,13.14" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r3)"/>
+      <path d="M13.14,5.84 A14.4,14.4 0 0 1 19,4.6 L157,4.6 A14.4,14.4 0 0 1 162.86,5.84 M170.16,13.14 A14.4,14.4 0 0 1 171.4,19 L171.4,157 A14.4,14.4 0 0 1 170.16,162.86 M162.86,170.16 A14.4,14.4 0 0 1 157,171.4 L19,171.4 A14.4,14.4 0 0 1 13.14,170.16 M5.84,162.86 A14.4,14.4 0 0 1 4.6,157 L4.6,19 A14.4,14.4 0 0 1 5.84,13.14" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r3)"/>
+      <path d="M13.14,5.84 A14.4,14.4 0 0 1 19,4.6 L157,4.6 A14.4,14.4 0 0 1 162.86,5.84 M170.16,13.14 A14.4,14.4 0 0 1 171.4,19 L171.4,157 A14.4,14.4 0 0 1 170.16,162.86 M162.86,170.16 A14.4,14.4 0 0 1 157,171.4 L19,171.4 A14.4,14.4 0 0 1 13.14,170.16 M5.84,162.86 A14.4,14.4 0 0 1 4.6,157 L4.6,19 A14.4,14.4 0 0 1 5.84,13.14" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M13.14,5.84 A14.4,14.4 0 0 1 19,4.6 L157,4.6 A14.4,14.4 0 0 1 162.86,5.84 M170.16,13.14 A14.4,14.4 0 0 1 171.4,19 L171.4,157 A14.4,14.4 0 0 1 170.16,162.86 M162.86,170.16 A14.4,14.4 0 0 1 157,171.4 L19,171.4 A14.4,14.4 0 0 1 13.14,170.16 M5.84,162.86 A14.4,14.4 0 0 1 4.6,157 L4.6,19 A14.4,14.4 0 0 1 5.84,13.14" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="5.84" cy="13.14" r="1.4"/>
+      <circle cx="13.14" cy="5.84" r="1.4"/>
+      <circle cx="162.86" cy="5.84" r="1.4"/>
+      <circle cx="170.16" cy="13.14" r="1.4"/>
+      <circle cx="170.16" cy="162.86" r="1.4"/>
+      <circle cx="162.86" cy="170.16" r="1.4"/>
+      <circle cx="13.14" cy="170.16" r="1.4"/>
+      <circle cx="5.84" cy="162.86" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-4">
+    <defs>
+      <clipPath id="frame-r4"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M20,14 H156 A6,6 0 0 1 162,20 V156 A6,6 0 0 1 156,162 H20 A6,6 0 0 1 14,156 V20 A6,6 0 0 1 20,14 Z"/></clipPath>
+      <filter id="fade-blur-r4" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r4" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M20,1.6 H156 A18.4,18.4 0 0 1 174.4,20 V156 A18.4,18.4 0 0 1 156,174.4 H20 A18.4,18.4 0 0 1 1.6,156 V20 A18.4,18.4 0 0 1 20,1.6 Z" fill="#fff" filter="url(#fade-blur-r4)"/></mask>
+      <filter id="haze-r4" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r4" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r4)" mask="url(#fade-r4)" fill="none" stroke-linecap="round">
+      <path d="M20,10 H156 A10,10 0 0 1 166,20 V156 A10,10 0 0 1 156,166 H20 A10,10 0 0 1 10,156 V20 A10,10 0 0 1 20,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r4)"/>
+      <path d="M20,10 H156 A10,10 0 0 1 166,20 V156 A10,10 0 0 1 156,166 H20 A10,10 0 0 1 10,156 V20 A10,10 0 0 1 20,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r4)"/>
+      <path d="M20,10 H156 A10,10 0 0 1 166,20 V156 A10,10 0 0 1 156,166 H20 A10,10 0 0 1 10,156 V20 A10,10 0 0 1 20,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M20,10 H156 A10,10 0 0 1 166,20 V156 A10,10 0 0 1 156,166 H20 A10,10 0 0 1 10,156 V20 A10,10 0 0 1 20,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M13.74,5.93 A15.4,15.4 0 0 1 20,4.6 L156,4.6 A15.4,15.4 0 0 1 162.26,5.93 M170.07,13.74 A15.4,15.4 0 0 1 171.4,20 L171.4,156 A15.4,15.4 0 0 1 170.07,162.26 M162.26,170.07 A15.4,15.4 0 0 1 156,171.4 L20,171.4 A15.4,15.4 0 0 1 13.74,170.07 M5.93,162.26 A15.4,15.4 0 0 1 4.6,156 L4.6,20 A15.4,15.4 0 0 1 5.93,13.74" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r4)"/>
+      <path d="M13.74,5.93 A15.4,15.4 0 0 1 20,4.6 L156,4.6 A15.4,15.4 0 0 1 162.26,5.93 M170.07,13.74 A15.4,15.4 0 0 1 171.4,20 L171.4,156 A15.4,15.4 0 0 1 170.07,162.26 M162.26,170.07 A15.4,15.4 0 0 1 156,171.4 L20,171.4 A15.4,15.4 0 0 1 13.74,170.07 M5.93,162.26 A15.4,15.4 0 0 1 4.6,156 L4.6,20 A15.4,15.4 0 0 1 5.93,13.74" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r4)"/>
+      <path d="M13.74,5.93 A15.4,15.4 0 0 1 20,4.6 L156,4.6 A15.4,15.4 0 0 1 162.26,5.93 M170.07,13.74 A15.4,15.4 0 0 1 171.4,20 L171.4,156 A15.4,15.4 0 0 1 170.07,162.26 M162.26,170.07 A15.4,15.4 0 0 1 156,171.4 L20,171.4 A15.4,15.4 0 0 1 13.74,170.07 M5.93,162.26 A15.4,15.4 0 0 1 4.6,156 L4.6,20 A15.4,15.4 0 0 1 5.93,13.74" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M13.74,5.93 A15.4,15.4 0 0 1 20,4.6 L156,4.6 A15.4,15.4 0 0 1 162.26,5.93 M170.07,13.74 A15.4,15.4 0 0 1 171.4,20 L171.4,156 A15.4,15.4 0 0 1 170.07,162.26 M162.26,170.07 A15.4,15.4 0 0 1 156,171.4 L20,171.4 A15.4,15.4 0 0 1 13.74,170.07 M5.93,162.26 A15.4,15.4 0 0 1 4.6,156 L4.6,20 A15.4,15.4 0 0 1 5.93,13.74" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="5.93" cy="13.74" r="1.4"/>
+      <circle cx="13.74" cy="5.93" r="1.4"/>
+      <circle cx="162.26" cy="5.93" r="1.4"/>
+      <circle cx="170.07" cy="13.74" r="1.4"/>
+      <circle cx="170.07" cy="162.26" r="1.4"/>
+      <circle cx="162.26" cy="170.07" r="1.4"/>
+      <circle cx="13.74" cy="170.07" r="1.4"/>
+      <circle cx="5.93" cy="162.26" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-6">
+    <defs>
+      <clipPath id="frame-r6"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M22,14 H154 A8,8 0 0 1 162,22 V154 A8,8 0 0 1 154,162 H22 A8,8 0 0 1 14,154 V22 A8,8 0 0 1 22,14 Z"/></clipPath>
+      <filter id="fade-blur-r6" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r6" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M22,1.6 H154 A20.4,20.4 0 0 1 174.4,22 V154 A20.4,20.4 0 0 1 154,174.4 H22 A20.4,20.4 0 0 1 1.6,154 V22 A20.4,20.4 0 0 1 22,1.6 Z" fill="#fff" filter="url(#fade-blur-r6)"/></mask>
+      <filter id="haze-r6" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r6" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r6)" mask="url(#fade-r6)" fill="none" stroke-linecap="round">
+      <path d="M22,10 H154 A12,12 0 0 1 166,22 V154 A12,12 0 0 1 154,166 H22 A12,12 0 0 1 10,154 V22 A12,12 0 0 1 22,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r6)"/>
+      <path d="M22,10 H154 A12,12 0 0 1 166,22 V154 A12,12 0 0 1 154,166 H22 A12,12 0 0 1 10,154 V22 A12,12 0 0 1 22,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r6)"/>
+      <path d="M22,10 H154 A12,12 0 0 1 166,22 V154 A12,12 0 0 1 154,166 H22 A12,12 0 0 1 10,154 V22 A12,12 0 0 1 22,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M22,10 H154 A12,12 0 0 1 166,22 V154 A12,12 0 0 1 154,166 H22 A12,12 0 0 1 10,154 V22 A12,12 0 0 1 22,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M14.92,6.1 A17.4,17.4 0 0 1 22,4.6 L154,4.6 A17.4,17.4 0 0 1 161.08,6.1 M169.9,14.92 A17.4,17.4 0 0 1 171.4,22 L171.4,154 A17.4,17.4 0 0 1 169.9,161.08 M161.08,169.9 A17.4,17.4 0 0 1 154,171.4 L22,171.4 A17.4,17.4 0 0 1 14.92,169.9 M6.1,161.08 A17.4,17.4 0 0 1 4.6,154 L4.6,22 A17.4,17.4 0 0 1 6.1,14.92" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r6)"/>
+      <path d="M14.92,6.1 A17.4,17.4 0 0 1 22,4.6 L154,4.6 A17.4,17.4 0 0 1 161.08,6.1 M169.9,14.92 A17.4,17.4 0 0 1 171.4,22 L171.4,154 A17.4,17.4 0 0 1 169.9,161.08 M161.08,169.9 A17.4,17.4 0 0 1 154,171.4 L22,171.4 A17.4,17.4 0 0 1 14.92,169.9 M6.1,161.08 A17.4,17.4 0 0 1 4.6,154 L4.6,22 A17.4,17.4 0 0 1 6.1,14.92" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r6)"/>
+      <path d="M14.92,6.1 A17.4,17.4 0 0 1 22,4.6 L154,4.6 A17.4,17.4 0 0 1 161.08,6.1 M169.9,14.92 A17.4,17.4 0 0 1 171.4,22 L171.4,154 A17.4,17.4 0 0 1 169.9,161.08 M161.08,169.9 A17.4,17.4 0 0 1 154,171.4 L22,171.4 A17.4,17.4 0 0 1 14.92,169.9 M6.1,161.08 A17.4,17.4 0 0 1 4.6,154 L4.6,22 A17.4,17.4 0 0 1 6.1,14.92" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M14.92,6.1 A17.4,17.4 0 0 1 22,4.6 L154,4.6 A17.4,17.4 0 0 1 161.08,6.1 M169.9,14.92 A17.4,17.4 0 0 1 171.4,22 L171.4,154 A17.4,17.4 0 0 1 169.9,161.08 M161.08,169.9 A17.4,17.4 0 0 1 154,171.4 L22,171.4 A17.4,17.4 0 0 1 14.92,169.9 M6.1,161.08 A17.4,17.4 0 0 1 4.6,154 L4.6,22 A17.4,17.4 0 0 1 6.1,14.92" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="6.1" cy="14.92" r="1.4"/>
+      <circle cx="14.92" cy="6.1" r="1.4"/>
+      <circle cx="161.08" cy="6.1" r="1.4"/>
+      <circle cx="169.9" cy="14.92" r="1.4"/>
+      <circle cx="169.9" cy="161.08" r="1.4"/>
+      <circle cx="161.08" cy="169.9" r="1.4"/>
+      <circle cx="14.92" cy="169.9" r="1.4"/>
+      <circle cx="6.1" cy="161.08" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-8">
+    <defs>
+      <clipPath id="frame-r8"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M24,14 H152 A10,10 0 0 1 162,24 V152 A10,10 0 0 1 152,162 H24 A10,10 0 0 1 14,152 V24 A10,10 0 0 1 24,14 Z"/></clipPath>
+      <filter id="fade-blur-r8" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r8" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M24,1.6 H152 A22.4,22.4 0 0 1 174.4,24 V152 A22.4,22.4 0 0 1 152,174.4 H24 A22.4,22.4 0 0 1 1.6,152 V24 A22.4,22.4 0 0 1 24,1.6 Z" fill="#fff" filter="url(#fade-blur-r8)"/></mask>
+      <filter id="haze-r8" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r8" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r8)" mask="url(#fade-r8)" fill="none" stroke-linecap="round">
+      <path d="M24,10 H152 A14,14 0 0 1 166,24 V152 A14,14 0 0 1 152,166 H24 A14,14 0 0 1 10,152 V24 A14,14 0 0 1 24,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r8)"/>
+      <path d="M24,10 H152 A14,14 0 0 1 166,24 V152 A14,14 0 0 1 152,166 H24 A14,14 0 0 1 10,152 V24 A14,14 0 0 1 24,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r8)"/>
+      <path d="M24,10 H152 A14,14 0 0 1 166,24 V152 A14,14 0 0 1 152,166 H24 A14,14 0 0 1 10,152 V24 A14,14 0 0 1 24,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M24,10 H152 A14,14 0 0 1 166,24 V152 A14,14 0 0 1 152,166 H24 A14,14 0 0 1 10,152 V24 A14,14 0 0 1 24,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M16.11,6.28 A19.4,19.4 0 0 1 24,4.6 L152,4.6 A19.4,19.4 0 0 1 159.89,6.28 M169.72,16.11 A19.4,19.4 0 0 1 171.4,24 L171.4,152 A19.4,19.4 0 0 1 169.72,159.89 M159.89,169.72 A19.4,19.4 0 0 1 152,171.4 L24,171.4 A19.4,19.4 0 0 1 16.11,169.72 M6.28,159.89 A19.4,19.4 0 0 1 4.6,152 L4.6,24 A19.4,19.4 0 0 1 6.28,16.11" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r8)"/>
+      <path d="M16.11,6.28 A19.4,19.4 0 0 1 24,4.6 L152,4.6 A19.4,19.4 0 0 1 159.89,6.28 M169.72,16.11 A19.4,19.4 0 0 1 171.4,24 L171.4,152 A19.4,19.4 0 0 1 169.72,159.89 M159.89,169.72 A19.4,19.4 0 0 1 152,171.4 L24,171.4 A19.4,19.4 0 0 1 16.11,169.72 M6.28,159.89 A19.4,19.4 0 0 1 4.6,152 L4.6,24 A19.4,19.4 0 0 1 6.28,16.11" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r8)"/>
+      <path d="M16.11,6.28 A19.4,19.4 0 0 1 24,4.6 L152,4.6 A19.4,19.4 0 0 1 159.89,6.28 M169.72,16.11 A19.4,19.4 0 0 1 171.4,24 L171.4,152 A19.4,19.4 0 0 1 169.72,159.89 M159.89,169.72 A19.4,19.4 0 0 1 152,171.4 L24,171.4 A19.4,19.4 0 0 1 16.11,169.72 M6.28,159.89 A19.4,19.4 0 0 1 4.6,152 L4.6,24 A19.4,19.4 0 0 1 6.28,16.11" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M16.11,6.28 A19.4,19.4 0 0 1 24,4.6 L152,4.6 A19.4,19.4 0 0 1 159.89,6.28 M169.72,16.11 A19.4,19.4 0 0 1 171.4,24 L171.4,152 A19.4,19.4 0 0 1 169.72,159.89 M159.89,169.72 A19.4,19.4 0 0 1 152,171.4 L24,171.4 A19.4,19.4 0 0 1 16.11,169.72 M6.28,159.89 A19.4,19.4 0 0 1 4.6,152 L4.6,24 A19.4,19.4 0 0 1 6.28,16.11" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="6.28" cy="16.11" r="1.4"/>
+      <circle cx="16.11" cy="6.28" r="1.4"/>
+      <circle cx="159.89" cy="6.28" r="1.4"/>
+      <circle cx="169.72" cy="16.11" r="1.4"/>
+      <circle cx="169.72" cy="159.89" r="1.4"/>
+      <circle cx="159.89" cy="169.72" r="1.4"/>
+      <circle cx="16.11" cy="169.72" r="1.4"/>
+      <circle cx="6.28" cy="159.89" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-10">
+    <defs>
+      <clipPath id="frame-r10"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M26,14 H150 A12,12 0 0 1 162,26 V150 A12,12 0 0 1 150,162 H26 A12,12 0 0 1 14,150 V26 A12,12 0 0 1 26,14 Z"/></clipPath>
+      <filter id="fade-blur-r10" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r10" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M26,1.6 H150 A24.4,24.4 0 0 1 174.4,26 V150 A24.4,24.4 0 0 1 150,174.4 H26 A24.4,24.4 0 0 1 1.6,150 V26 A24.4,24.4 0 0 1 26,1.6 Z" fill="#fff" filter="url(#fade-blur-r10)"/></mask>
+      <filter id="haze-r10" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r10" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r10)" mask="url(#fade-r10)" fill="none" stroke-linecap="round">
+      <path d="M26,10 H150 A16,16 0 0 1 166,26 V150 A16,16 0 0 1 150,166 H26 A16,16 0 0 1 10,150 V26 A16,16 0 0 1 26,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r10)"/>
+      <path d="M26,10 H150 A16,16 0 0 1 166,26 V150 A16,16 0 0 1 150,166 H26 A16,16 0 0 1 10,150 V26 A16,16 0 0 1 26,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r10)"/>
+      <path d="M26,10 H150 A16,16 0 0 1 166,26 V150 A16,16 0 0 1 150,166 H26 A16,16 0 0 1 10,150 V26 A16,16 0 0 1 26,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M26,10 H150 A16,16 0 0 1 166,26 V150 A16,16 0 0 1 150,166 H26 A16,16 0 0 1 10,150 V26 A16,16 0 0 1 26,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M17.3,6.45 A21.4,21.4 0 0 1 26,4.6 L150,4.6 A21.4,21.4 0 0 1 158.7,6.45 M169.55,17.3 A21.4,21.4 0 0 1 171.4,26 L171.4,150 A21.4,21.4 0 0 1 169.55,158.7 M158.7,169.55 A21.4,21.4 0 0 1 150,171.4 L26,171.4 A21.4,21.4 0 0 1 17.3,169.55 M6.45,158.7 A21.4,21.4 0 0 1 4.6,150 L4.6,26 A21.4,21.4 0 0 1 6.45,17.3" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r10)"/>
+      <path d="M17.3,6.45 A21.4,21.4 0 0 1 26,4.6 L150,4.6 A21.4,21.4 0 0 1 158.7,6.45 M169.55,17.3 A21.4,21.4 0 0 1 171.4,26 L171.4,150 A21.4,21.4 0 0 1 169.55,158.7 M158.7,169.55 A21.4,21.4 0 0 1 150,171.4 L26,171.4 A21.4,21.4 0 0 1 17.3,169.55 M6.45,158.7 A21.4,21.4 0 0 1 4.6,150 L4.6,26 A21.4,21.4 0 0 1 6.45,17.3" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r10)"/>
+      <path d="M17.3,6.45 A21.4,21.4 0 0 1 26,4.6 L150,4.6 A21.4,21.4 0 0 1 158.7,6.45 M169.55,17.3 A21.4,21.4 0 0 1 171.4,26 L171.4,150 A21.4,21.4 0 0 1 169.55,158.7 M158.7,169.55 A21.4,21.4 0 0 1 150,171.4 L26,171.4 A21.4,21.4 0 0 1 17.3,169.55 M6.45,158.7 A21.4,21.4 0 0 1 4.6,150 L4.6,26 A21.4,21.4 0 0 1 6.45,17.3" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M17.3,6.45 A21.4,21.4 0 0 1 26,4.6 L150,4.6 A21.4,21.4 0 0 1 158.7,6.45 M169.55,17.3 A21.4,21.4 0 0 1 171.4,26 L171.4,150 A21.4,21.4 0 0 1 169.55,158.7 M158.7,169.55 A21.4,21.4 0 0 1 150,171.4 L26,171.4 A21.4,21.4 0 0 1 17.3,169.55 M6.45,158.7 A21.4,21.4 0 0 1 4.6,150 L4.6,26 A21.4,21.4 0 0 1 6.45,17.3" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="6.45" cy="17.3" r="1.4"/>
+      <circle cx="17.3" cy="6.45" r="1.4"/>
+      <circle cx="158.7" cy="6.45" r="1.4"/>
+      <circle cx="169.55" cy="17.3" r="1.4"/>
+      <circle cx="169.55" cy="158.7" r="1.4"/>
+      <circle cx="158.7" cy="169.55" r="1.4"/>
+      <circle cx="17.3" cy="169.55" r="1.4"/>
+      <circle cx="6.45" cy="158.7" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-14">
+    <defs>
+      <clipPath id="frame-r14"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M30,14 H146 A16,16 0 0 1 162,30 V146 A16,16 0 0 1 146,162 H30 A16,16 0 0 1 14,146 V30 A16,16 0 0 1 30,14 Z"/></clipPath>
+      <filter id="fade-blur-r14" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r14" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M30,1.6 H146 A28.4,28.4 0 0 1 174.4,30 V146 A28.4,28.4 0 0 1 146,174.4 H30 A28.4,28.4 0 0 1 1.6,146 V30 A28.4,28.4 0 0 1 30,1.6 Z" fill="#fff" filter="url(#fade-blur-r14)"/></mask>
+      <filter id="haze-r14" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r14" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r14)" mask="url(#fade-r14)" fill="none" stroke-linecap="round">
+      <path d="M30,10 H146 A20,20 0 0 1 166,30 V146 A20,20 0 0 1 146,166 H30 A20,20 0 0 1 10,146 V30 A20,20 0 0 1 30,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r14)"/>
+      <path d="M30,10 H146 A20,20 0 0 1 166,30 V146 A20,20 0 0 1 146,166 H30 A20,20 0 0 1 10,146 V30 A20,20 0 0 1 30,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r14)"/>
+      <path d="M30,10 H146 A20,20 0 0 1 166,30 V146 A20,20 0 0 1 146,166 H30 A20,20 0 0 1 10,146 V30 A20,20 0 0 1 30,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M30,10 H146 A20,20 0 0 1 166,30 V146 A20,20 0 0 1 146,166 H30 A20,20 0 0 1 10,146 V30 A20,20 0 0 1 30,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M19.67,6.8 A25.4,25.4 0 0 1 30,4.6 L146,4.6 A25.4,25.4 0 0 1 156.33,6.8 M169.2,19.67 A25.4,25.4 0 0 1 171.4,30 L171.4,146 A25.4,25.4 0 0 1 169.2,156.33 M156.33,169.2 A25.4,25.4 0 0 1 146,171.4 L30,171.4 A25.4,25.4 0 0 1 19.67,169.2 M6.8,156.33 A25.4,25.4 0 0 1 4.6,146 L4.6,30 A25.4,25.4 0 0 1 6.8,19.67" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r14)"/>
+      <path d="M19.67,6.8 A25.4,25.4 0 0 1 30,4.6 L146,4.6 A25.4,25.4 0 0 1 156.33,6.8 M169.2,19.67 A25.4,25.4 0 0 1 171.4,30 L171.4,146 A25.4,25.4 0 0 1 169.2,156.33 M156.33,169.2 A25.4,25.4 0 0 1 146,171.4 L30,171.4 A25.4,25.4 0 0 1 19.67,169.2 M6.8,156.33 A25.4,25.4 0 0 1 4.6,146 L4.6,30 A25.4,25.4 0 0 1 6.8,19.67" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r14)"/>
+      <path d="M19.67,6.8 A25.4,25.4 0 0 1 30,4.6 L146,4.6 A25.4,25.4 0 0 1 156.33,6.8 M169.2,19.67 A25.4,25.4 0 0 1 171.4,30 L171.4,146 A25.4,25.4 0 0 1 169.2,156.33 M156.33,169.2 A25.4,25.4 0 0 1 146,171.4 L30,171.4 A25.4,25.4 0 0 1 19.67,169.2 M6.8,156.33 A25.4,25.4 0 0 1 4.6,146 L4.6,30 A25.4,25.4 0 0 1 6.8,19.67" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M19.67,6.8 A25.4,25.4 0 0 1 30,4.6 L146,4.6 A25.4,25.4 0 0 1 156.33,6.8 M169.2,19.67 A25.4,25.4 0 0 1 171.4,30 L171.4,146 A25.4,25.4 0 0 1 169.2,156.33 M156.33,169.2 A25.4,25.4 0 0 1 146,171.4 L30,171.4 A25.4,25.4 0 0 1 19.67,169.2 M6.8,156.33 A25.4,25.4 0 0 1 4.6,146 L4.6,30 A25.4,25.4 0 0 1 6.8,19.67" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="6.8" cy="19.67" r="1.4"/>
+      <circle cx="19.67" cy="6.8" r="1.4"/>
+      <circle cx="156.33" cy="6.8" r="1.4"/>
+      <circle cx="169.2" cy="19.67" r="1.4"/>
+      <circle cx="169.2" cy="156.33" r="1.4"/>
+      <circle cx="156.33" cy="169.2" r="1.4"/>
+      <circle cx="19.67" cy="169.2" r="1.4"/>
+      <circle cx="6.8" cy="156.33" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-18">
+    <defs>
+      <clipPath id="frame-r18"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M34,14 H142 A20,20 0 0 1 162,34 V142 A20,20 0 0 1 142,162 H34 A20,20 0 0 1 14,142 V34 A20,20 0 0 1 34,14 Z"/></clipPath>
+      <filter id="fade-blur-r18" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r18" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M34,1.6 H142 A32.4,32.4 0 0 1 174.4,34 V142 A32.4,32.4 0 0 1 142,174.4 H34 A32.4,32.4 0 0 1 1.6,142 V34 A32.4,32.4 0 0 1 34,1.6 Z" fill="#fff" filter="url(#fade-blur-r18)"/></mask>
+      <filter id="haze-r18" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r18" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r18)" mask="url(#fade-r18)" fill="none" stroke-linecap="round">
+      <path d="M34,10 H142 A24,24 0 0 1 166,34 V142 A24,24 0 0 1 142,166 H34 A24,24 0 0 1 10,142 V34 A24,24 0 0 1 34,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r18)"/>
+      <path d="M34,10 H142 A24,24 0 0 1 166,34 V142 A24,24 0 0 1 142,166 H34 A24,24 0 0 1 10,142 V34 A24,24 0 0 1 34,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r18)"/>
+      <path d="M34,10 H142 A24,24 0 0 1 166,34 V142 A24,24 0 0 1 142,166 H34 A24,24 0 0 1 10,142 V34 A24,24 0 0 1 34,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M34,10 H142 A24,24 0 0 1 166,34 V142 A24,24 0 0 1 142,166 H34 A24,24 0 0 1 10,142 V34 A24,24 0 0 1 34,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M22.04,7.14 A29.4,29.4 0 0 1 34,4.6 L142,4.6 A29.4,29.4 0 0 1 153.96,7.14 M168.86,22.04 A29.4,29.4 0 0 1 171.4,34 L171.4,142 A29.4,29.4 0 0 1 168.86,153.96 M153.96,168.86 A29.4,29.4 0 0 1 142,171.4 L34,171.4 A29.4,29.4 0 0 1 22.04,168.86 M7.14,153.96 A29.4,29.4 0 0 1 4.6,142 L4.6,34 A29.4,29.4 0 0 1 7.14,22.04" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r18)"/>
+      <path d="M22.04,7.14 A29.4,29.4 0 0 1 34,4.6 L142,4.6 A29.4,29.4 0 0 1 153.96,7.14 M168.86,22.04 A29.4,29.4 0 0 1 171.4,34 L171.4,142 A29.4,29.4 0 0 1 168.86,153.96 M153.96,168.86 A29.4,29.4 0 0 1 142,171.4 L34,171.4 A29.4,29.4 0 0 1 22.04,168.86 M7.14,153.96 A29.4,29.4 0 0 1 4.6,142 L4.6,34 A29.4,29.4 0 0 1 7.14,22.04" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r18)"/>
+      <path d="M22.04,7.14 A29.4,29.4 0 0 1 34,4.6 L142,4.6 A29.4,29.4 0 0 1 153.96,7.14 M168.86,22.04 A29.4,29.4 0 0 1 171.4,34 L171.4,142 A29.4,29.4 0 0 1 168.86,153.96 M153.96,168.86 A29.4,29.4 0 0 1 142,171.4 L34,171.4 A29.4,29.4 0 0 1 22.04,168.86 M7.14,153.96 A29.4,29.4 0 0 1 4.6,142 L4.6,34 A29.4,29.4 0 0 1 7.14,22.04" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M22.04,7.14 A29.4,29.4 0 0 1 34,4.6 L142,4.6 A29.4,29.4 0 0 1 153.96,7.14 M168.86,22.04 A29.4,29.4 0 0 1 171.4,34 L171.4,142 A29.4,29.4 0 0 1 168.86,153.96 M153.96,168.86 A29.4,29.4 0 0 1 142,171.4 L34,171.4 A29.4,29.4 0 0 1 22.04,168.86 M7.14,153.96 A29.4,29.4 0 0 1 4.6,142 L4.6,34 A29.4,29.4 0 0 1 7.14,22.04" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="7.14" cy="22.04" r="1.4"/>
+      <circle cx="22.04" cy="7.14" r="1.4"/>
+      <circle cx="153.96" cy="7.14" r="1.4"/>
+      <circle cx="168.86" cy="22.04" r="1.4"/>
+      <circle cx="168.86" cy="153.96" r="1.4"/>
+      <circle cx="153.96" cy="168.86" r="1.4"/>
+      <circle cx="22.04" cy="168.86" r="1.4"/>
+      <circle cx="7.14" cy="153.96" r="1.4"/>
+    </g>
+  </g>
+  <g id="rounding-35">
+    <defs>
+      <clipPath id="frame-r35"><path clip-rule="evenodd" d="M0,0 H176 V176 H0 Z M51,14 H125 A37,37 0 0 1 162,51 V125 A37,37 0 0 1 125,162 H51 A37,37 0 0 1 14,125 V51 A37,37 0 0 1 51,14 Z"/></clipPath>
+      <filter id="fade-blur-r35" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1"/></filter>
+      <mask id="fade-r35" maskUnits="userSpaceOnUse" x="0" y="0" width="176" height="176"><path d="M51,1.6 H125 A49.4,49.4 0 0 1 174.4,51 V125 A49.4,49.4 0 0 1 125,174.4 H51 A49.4,49.4 0 0 1 1.6,125 V51 A49.4,49.4 0 0 1 51,1.6 Z" fill="#fff" filter="url(#fade-blur-r35)"/></mask>
+      <filter id="haze-r35" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="3.6"/></filter>
+      <filter id="glow-r35" filterUnits="userSpaceOnUse" x="-40" y="-40" width="256" height="256"><feGaussianBlur stdDeviation="1.6"/></filter>
+    </defs>
+    <g clip-path="url(#frame-r35)" mask="url(#fade-r35)" fill="none" stroke-linecap="round">
+      <path d="M51,10 H125 A41,41 0 0 1 166,51 V125 A41,41 0 0 1 125,166 H51 A41,41 0 0 1 10,125 V51 A41,41 0 0 1 51,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="6.9" stroke-opacity=".55" filter="url(#haze-r35)"/>
+      <path d="M51,10 H125 A41,41 0 0 1 166,51 V125 A41,41 0 0 1 125,166 H51 A41,41 0 0 1 10,125 V51 A41,41 0 0 1 51,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="3" filter="url(#glow-r35)"/>
+      <path d="M51,10 H125 A41,41 0 0 1 166,51 V125 A41,41 0 0 1 125,166 H51 A41,41 0 0 1 10,125 V51 A41,41 0 0 1 51,10 Z" stroke="{{colors.tertiary.default.hex}}" stroke-width="1.5"/>
+      <path d="M51,10 H125 A41,41 0 0 1 166,51 V125 A41,41 0 0 1 125,166 H51 A41,41 0 0 1 10,125 V51 A41,41 0 0 1 51,10 Z" stroke="{{colors.tertiary_fixed.default.hex}}" stroke-width="0.68"/>
+      <path d="M32.13,8.61 A46.4,46.4 0 0 1 51,4.6 L125,4.6 A46.4,46.4 0 0 1 143.87,8.61 M167.39,32.13 A46.4,46.4 0 0 1 171.4,51 L171.4,125 A46.4,46.4 0 0 1 167.39,143.87 M143.87,167.39 A46.4,46.4 0 0 1 125,171.4 L51,171.4 A46.4,46.4 0 0 1 32.13,167.39 M8.61,143.87 A46.4,46.4 0 0 1 4.6,125 L4.6,51 A46.4,46.4 0 0 1 8.61,32.13" stroke="{{colors.primary.default.hex}}" stroke-width="9.66" stroke-opacity=".55" filter="url(#haze-r35)"/>
+      <path d="M32.13,8.61 A46.4,46.4 0 0 1 51,4.6 L125,4.6 A46.4,46.4 0 0 1 143.87,8.61 M167.39,32.13 A46.4,46.4 0 0 1 171.4,51 L171.4,125 A46.4,46.4 0 0 1 167.39,143.87 M143.87,167.39 A46.4,46.4 0 0 1 125,171.4 L51,171.4 A46.4,46.4 0 0 1 32.13,167.39 M8.61,143.87 A46.4,46.4 0 0 1 4.6,125 L4.6,51 A46.4,46.4 0 0 1 8.61,32.13" stroke="{{colors.primary.default.hex}}" stroke-width="4.2" filter="url(#glow-r35)"/>
+      <path d="M32.13,8.61 A46.4,46.4 0 0 1 51,4.6 L125,4.6 A46.4,46.4 0 0 1 143.87,8.61 M167.39,32.13 A46.4,46.4 0 0 1 171.4,51 L171.4,125 A46.4,46.4 0 0 1 167.39,143.87 M143.87,167.39 A46.4,46.4 0 0 1 125,171.4 L51,171.4 A46.4,46.4 0 0 1 32.13,167.39 M8.61,143.87 A46.4,46.4 0 0 1 4.6,125 L4.6,51 A46.4,46.4 0 0 1 8.61,32.13" stroke="{{colors.primary.default.hex}}" stroke-width="2.1"/>
+      <path d="M32.13,8.61 A46.4,46.4 0 0 1 51,4.6 L125,4.6 A46.4,46.4 0 0 1 143.87,8.61 M167.39,32.13 A46.4,46.4 0 0 1 171.4,51 L171.4,125 A46.4,46.4 0 0 1 167.39,143.87 M143.87,167.39 A46.4,46.4 0 0 1 125,171.4 L51,171.4 A46.4,46.4 0 0 1 32.13,167.39 M8.61,143.87 A46.4,46.4 0 0 1 4.6,125 L4.6,51 A46.4,46.4 0 0 1 8.61,32.13" stroke="{{colors.primary_fixed.default.hex}}" stroke-width="0.95"/>
+    </g>
+    <g fill="{{colors.surface_container_highest.default.hex}}" stroke="{{colors.outline.default.hex}}" stroke-width=".5">
+      <circle cx="8.61" cy="32.13" r="1.4"/>
+      <circle cx="32.13" cy="8.61" r="1.4"/>
+      <circle cx="143.87" cy="8.61" r="1.4"/>
+      <circle cx="167.39" cy="32.13" r="1.4"/>
+      <circle cx="167.39" cy="143.87" r="1.4"/>
+      <circle cx="143.87" cy="167.39" r="1.4"/>
+      <circle cx="32.13" cy="167.39" r="1.4"/>
+      <circle cx="8.61" cy="143.87" r="1.4"/>
+    </g>
+  </g>
+</svg>
